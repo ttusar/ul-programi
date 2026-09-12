@@ -86,6 +86,30 @@ def string_lines(root: Tag) -> list[str]:
     return lines
 
 
+def text_lines_preserving_breaks(tag: Tag) -> list[str]:
+    """Extract text from a block while keeping <br> as logical line breaks."""
+    from bs4 import NavigableString
+
+    lines: list[str] = []
+    parts: list[str] = []
+
+    def flush() -> None:
+        text = clean_ui_prefix(" ".join(parts))
+        parts.clear()
+        if text:
+            lines.append(text)
+
+    for node in tag.descendants:
+        if isinstance(node, NavigableString):
+            text = clean_text(str(node))
+            if text:
+                parts.append(text)
+        elif isinstance(node, Tag) and node.name == "br":
+            flush()
+    flush()
+    return lines
+
+
 def block_lines(root: Tag) -> list[str]:
     """Return readable block-level text while preserving list markers."""
     accepted = {"h1", "h2", "h3", "h4", "h5", "h6", "p", "li", "dt", "dd", "button", "summary"}
@@ -96,12 +120,10 @@ def block_lines(root: Tag) -> list[str]:
             parent = tag.find_parent(accepted)
             if parent is not None and parent.name in {"li", "p", "dt", "dd"}:
                 continue
-        text = clean_ui_prefix(tag.get_text(" ", strip=True))
-        if not text:
-            continue
+        texts = text_lines_preserving_breaks(tag)
         if tag.name == "li":
-            text = f"- {text}"
-        result.append(text)
+            texts = [f"- {text}" for text in texts]
+        result.extend(texts)
     return result
 
 
@@ -247,7 +269,7 @@ def parse_programme_html(html: str, url: str) -> dict[str, object] | None:
     programme_type = value_after_label(
         strings,
         "Vrsta študijskega programa",
-        {"Trajanje v letih"},
+        {"Lastnost študijskega programa", "Trajanje v letih"},
     )
     if programme_type not in ALLOWED_TYPES:
         return None
@@ -268,7 +290,7 @@ def parse_programme_html(html: str, url: str) -> dict[str, object] | None:
     faculty = value_after_label(
         strings,
         "Članica UL",
-        {"Opis programa", "Smeri", "Strokovni naslov", "Pogoji za vpis"},
+        {"Druge sodelujoče članice", "Opis programa", "Smeri", "Strokovni naslov", "Pogoji za vpis"},
     )
 
     description = extract_section(blocks, "Opis programa", DESCRIPTION_STOPS)
