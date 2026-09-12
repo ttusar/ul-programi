@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Pregled univerzitetnih in enovitih magistrskih študijskih programov Univerze v Ljubljani.">
+  <title>Študijski programi UL</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="page-shell header-inner">
+      <div>
+        <p class="eyebrow">Univerza v Ljubljani</p>
+        <h1>Izbira študijskega programa</h1>
+        <p class="lede">Pregled univerzitetnih in enovitih magistrskih programov na enem mestu.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-shell page-main">
+    <section class="notice" aria-label="Pomembno">
+      <strong>Neuradni pregled.</strong> Za končne pogoje in podatke vedno preverite uradno stran Univerze v Ljubljani.
+    </section>
+
+    <section id="sample-banner" class="notice notice-warning" hidden>
+      Prikazani so le vzorčni podatki. Za celoten seznam zaženite <code>python scripts/update_data.py</code> ali objavite stran z vključenim GitHub Actions postopkom.
+    </section>
+
+    <section class="section-card" aria-labelledby="programs-heading">
+      <div class="section-heading-row">
+        <div>
+          <h2 id="programs-heading">Programi</h2>
+          <p id="data-status" class="muted" role="status">Nalagam podatke …</p>
+        </div>
+        <div id="interest-summary" class="summary-pill" aria-live="polite"></div>
+      </div>
+
+      <div class="mobile-sort">
+        <label for="mobile-sort-select">Razvrsti po</label>
+        <select id="mobile-sort-select">
+          <option value="faculty">Članica UL</option>
+          <option value="name">Ime programa</option>
+          <option value="type">Vrsta programa</option>
+          <option value="duration">Trajanje v letih</option>
+          <option value="interest">Interes</option>
+        </select>
+        <button id="mobile-sort-direction" type="button" class="button button-small button-secondary" aria-label="Spremeni smer razvrščanja">Naraščajoče</button>
+      </div>
+
+      <div class="table-wrap">
+        <table class="program-table">
+          <thead>
+            <tr>
+              <th scope="col" data-sort="faculty" aria-sort="ascending"><button type="button" class="sort-button">Članica UL <span aria-hidden="true" class="sort-indicator">↑</span></button></th>
+              <th scope="col" data-sort="name" aria-sort="none"><button type="button" class="sort-button">Ime programa <span aria-hidden="true" class="sort-indicator"></span></button></th>
+              <th scope="col" data-sort="type" aria-sort="none"><button type="button" class="sort-button">Vrsta programa <span aria-hidden="true" class="sort-indicator"></span></button></th>
+              <th scope="col" data-sort="duration" aria-sort="none"><button type="button" class="sort-button">Trajanje v letih <span aria-hidden="true" class="sort-indicator"></span></button></th>
+              <th scope="col" data-sort="interest" aria-sort="none"><button type="button" class="sort-button">Interes <span aria-hidden="true" class="sort-indicator"></span></button></th>
+            </tr>
+          </thead>
+          <tbody id="program-table-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="selection-panel" aria-labelledby="details-heading">
+      <div>
+        <h2 id="details-heading">Podrobnejši pregled</h2>
+        <p>Izberite, katere skupine želite vključiti na strani s podrobnostmi.</p>
+      </div>
+      <fieldset class="checkbox-group">
+        <legend class="sr-only">Interes za podrobnejši pregled</legend>
+        <label><input type="checkbox" name="details-interest" value="yes" checked> Ja</label>
+        <label><input type="checkbox" name="details-interest" value="maybe" checked> Mogoče</label>
+        <label><input type="checkbox" name="details-interest" value="no"> Ne</label>
+      </fieldset>
+      <button id="show-details" type="button" class="button">Prikaži podrobnosti</button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="page-shell">
+      <p>Podatki: <a href="https://www.uni-lj.si/programi" target="_blank" rel="noopener noreferrer">Univerza v Ljubljani</a>.</p>
+    </div>
+  </footer>
+
+  <script type="module" src="index.js"></script>
+</body>
+</html>

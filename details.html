@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Podrobnejši pregled izbranih študijskih programov Univerze v Ljubljani.">
+  <title>Podrobnosti programov UL</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="details-page">
+  <header class="site-header details-header">
+    <div class="page-shell details-header-inner">
+      <div>
+        <p class="eyebrow">Univerza v Ljubljani</p>
+        <h1>Podrobnejši pregled programov</h1>
+        <p id="details-filter-label" class="lede"></p>
+      </div>
+      <div class="header-actions no-print">
+        <a href="index.html" class="button button-secondary">Nazaj na seznam</a>
+        <button id="print-page" type="button" class="button">Natisni</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-shell page-main">
+    <section class="notice no-print" aria-label="Pomembno">
+      <strong>Neuradni pregled.</strong> Za končne pogoje in podatke vedno preverite uradno stran Univerze v Ljubljani.
+    </section>
+
+    <section id="sample-banner" class="notice notice-warning no-print" hidden>
+      Prikazani so le vzorčni podatki. Celoten seznam nastane z zagonom skripte za osvežitev podatkov.
+    </section>
+
+    <p id="details-status" class="muted" role="status">Nalagam podatke …</p>
+    <div id="program-details" class="program-details"></div>
+  </main>
+
+  <script type="module" src="details.js"></script>
+</body>
+</html>

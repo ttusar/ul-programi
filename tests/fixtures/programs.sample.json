@@ -1,0 +1,1348 @@
+{
+  "generatedAt": "2026-09-12T17:22:23.428914+00:00",
+  "isSample": false,
+  "source": {
+    "catalogue": "https://www.uni-lj.si/studij/dodiplomski-in-enoviti-magistrski-studij/programi-dodiplomskega-in-enovitega-magistrskega-studija",
+    "programmeCatalogue": "https://www.uni-lj.si/programi"
+  },
+  "programTypes": [
+    "Enoviti magistrski",
+    "Univerzitetni"
+  ],
+  "programs": [
+    {
+      "id": "glasbena-pedagogika",
+      "faculty": "Akademija za glasbo",
+      "name": "Glasbena pedagogika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj programa je študentom in diplomantom ponuditi strokovno znanje, pridobljeno s študijem glasbenoreproduktivnih, produktivnih, muzikoloških in glasbenopedagoških disciplin, spodbujati in omogočiti sintetično, analitično, ustvarjalno mišljenje in reševanje problemov ter fleksibilno uporabo znanja v praksi.",
+        "Iniciativnost in ambicioznost sta vrednoti stalnega osebnega napredovanja in strokovnega izpopolnjevanja, pri čemer predstavlja občutljivost (ozaveščenost) za naravno in družbeno okolje, nacionalno kulturo, dediščino, identiteto, multikulturnost in nediskriminativnost temelj za nadaljnje izobraževanje in usposabljanje.",
+        "Drugi splošni cilji tega programa so še: sposobnost za upravljanje časa, za samostojno načrtovanje, za samokontrolo izvajanja načrtov in za uporabo IKT v vzgoji in izobraževanju, poznavanje in razumevanje družbenih sistemov, posebej procesov v vzgoji in izobraževanju, sposobnost za sodelovalno/timsko delo ter občutljivost za ljudi in socialne položaje, poznavanje in razumevanje razvojnih zakonitosti, razlik in potreb posameznika, razumevanje individualnih vrednot in vrednostnih sistemov, obvladovanje profesionalno-etničnih vprašanj."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri sprejemnem preizkusu 80 % točk,",
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 15 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/glasbena-pedagogika"
+    },
+    {
+      "id": "glasbena-umetnost",
+      "faculty": "Akademija za glasbo",
+      "name": "Glasbena umetnost",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Cilj prvostopenjskega programa Glasbena umetnost je izobraziti nadarjene glasbenike s srednješolskim znanjem s področij smeri tega programa za opravljanje umetniških poklicev, ki so opredeljeni s smermi tega programa.",
+        "Ob izbirnem pedagoškem modulu diplomanti pridobijo tudi delna znanja, potrebna za prenašanje svojega znanja za pedagoško dejavnost za področja, ki so opredeljena s smermi tega programa. Po uspešno zaključenih smereh programa so diplomanti usposobljeni za nadaljevanje študija na enakih smereh drugostopenjskega magistrskega programa Glasbena umetnost, s katerim pridobijo znanja in kompetence glasbenih umetnikov s področja svoje smeri in ob izbranem pedagoškem modulu znanja in kompetence pedagoga za področje svoje smeri v osnovnem in srednjem glasbenem šolstvu."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/glasbena-umetnost"
+    },
+    {
+      "id": "dramaturgija-in-scenske-umetnosti",
+      "faculty": "Akademija za gledališče, radio, film in televizijo",
+      "name": "Dramaturgija in scenske umetnosti",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študentke in študentje programa Dramaturgija in scenske umetnosti dobijo na prvi stopnji študija osnovna teatrološka znanja, ki jih usposabljajo za opravljanje praktičnih dramaturških opravil v gledaliških in sorodnih ustanovah, na radiu, pri filmu in televiziji, za raziskovalno-teoretsko in arhivsko delo v gledaliških in njim sorodnih institucijah, ter osnovna znanja, ki so potrebna za pisanje dramskih in drugih umetniških besedil, strokovnih razprav ter kritičnih in publicističnih člankov za strokovno javnost in množične medije.",
+        "Dramaturški profil je zasnovan intenzivno in široko ter omogoča povezave z drugimi umetniškimi profili oz. sodelavci v umetniški produkciji tako v gledališču, na radiu, televiziji in pri filmu kot tudi v drugih (npr. tiskanih, spletnih) medijih.",
+        "Teatrološko znanje diplomiranega dramaturga ali dramaturginje je mednarodno primerljivo in ustreza evropskim standardom za omenjeno področje."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/dramaturgija-in-scenske-umetnosti"
+    },
+    {
+      "id": "dramska-igra",
+      "faculty": "Akademija za gledališče, radio, film in televizijo",
+      "name": "Dramska igra",
+      "type": "Univerzitetni",
+      "duration": 4,
+      "description": [
+        "Diplomanti po zaključenem študijskem programu poznajo in obvladajo temeljne zakonitosti uprizarjanja: od simulacije in improvizacije do interpretacije in umetniškega uprizarjanja.",
+        "Študij odpira možnosti za posameznikovo in skupinsko raziskavo igralskih potencialov in s tem vzpostavljanje področja za trasiranje umetniške vizije in zvez z njeno realizacijo. Diplomanta usposobi za analizo okoliščin in sprememb v njegovi psihofizični strukturi pri prehajanju iz stvarnega sveta v fiktivni prostor igre, odra in uprizarjanja. Študent med študijem oblikuje prve obrise uprizoritvene osebnosti, tj. posebne osebnostne strukture, ki jo igralec uporablja pri svojem umetniškem ustvarjanju.",
+        "Program ponuja širši in poglobljen vpogled v slovenski gledališki prostor oz. pomeni njegovo kritično ocenitev in obenem strokovno primerjavo s trenutnimi gledališkimi ustvarjalnimi procesi in dosežki v tujini. Zavezujoči program, ki ga diplomanti pridobijo, se izkazuje in osmišlja v javnem prostoru doma in v tujini."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/dramska-igra"
+    },
+    {
+      "id": "film-in-televizija",
+      "faculty": "Akademija za gledališče, radio, film in televizijo",
+      "name": "Film in televizija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj programa je diplomante, skladno z izbrano smerjo študija (režija, snemanje, montaža), usposobiti za samostojno ustvarjalno in strokovno delo pri izvedbi dokumentarnega filma, igranega filma, televizijske drame, televizijskih oddaj raz- ličnih zvrsti in drugih oblik avdiovizualnih del.",
+        "V študijskem procesu spoznajo teoretične osnove, estetsko-vsebinska izhodišča, tehnološke postopke in praktična orodja, ki se nanašajo na pripravo, produkcijo in postprodukcijo avdiovizualnih del. Obenem pa skozi ustvarjalno izvedbo vse zahtevnejših projektov ob estetski in tehnični konceptualizaciji ter realizaciji oblikujejo svojo lastno izraznost.",
+        "V program so vgrajena temeljna znanja, da lahko diplomanti po zaključenem študiju uspešno delujejo na avdiovizualnem področju, obe- nem pa jim izbrana smer znotraj programa (režija, snemanje, montaža) prinaša dovolj specializiranih znanj in izkušenj za suvereno opravljanje nalog iz izbrane smeri."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/film-in-televizija"
+    },
+    {
+      "id": "gledaliska-rezija",
+      "faculty": "Akademija za gledališče, radio, film in televizijo",
+      "name": "Gledališka režija",
+      "type": "Univerzitetni",
+      "duration": 4,
+      "description": [
+        "Diplomant študijske programa Gledališka režija med študijem v prvi vrsti razvija znanja in spretnosti za svoj odnos do igralca, gledališkega dogodka, zvoka, prostora, besedila in širše družbene, umetniške in druge dimenzije gledališkega dogodka. Pri tem je ključna njegova ustvarjalnost pri povezovanju naštetih elementov v koherentno in prepričljivo strukturo doživljaja, temelječo na teoretičnem in praktičnem poznavanje človeške psihologije, psiholoških tipov, psihologije in dinamike v skupinah, obvladovanju aktivnega in učinkovitega usmerjanja z glagoli, slikami, pojmi, ki so navdihujoči in izvedljivi.",
+        "Diplomant je opremljen tudi z ustreznimi veščinami vodenja in komunikacije ter ekonomije v dramaturški uporabi gledaliških sredstev."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/gledaliska-rezija"
+    },
+    {
+      "id": "industrijsko-in-unikatno-oblikovanje",
+      "faculty": "Akademija za likovno umetnost in oblikovanje",
+      "name": "Industrijsko in unikatno oblikovanje",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Oddelek za industrijsko in unikatno oblikovanje se ponaša z dolgoletno tradicijo in pomembno vlogo v razvoju slovenskega oblikovanja. Kot edini v Sloveniji ponuja univerzitetni študijski program na tem področju, obenem pa sodi med ugledna izobraževalna središča oblikovanja v širši regiji.",
+        "Naše poslanstvo je spodbujati razvoj ustvarjalnih, kritično mislečih in družbeno odgovornih oblikovalcev, ki bodo sposobni razvijati inovativne, trajnostne in tehnološko napredne rešitve. Program temelji na povezovanju umetniškega izraza, oblikovalskih metodologij in raziskovalnega pristopa, ki študentom omogoča razvoj lastnega ustvarjalnega jezika in profesionalne identitete.",
+        "Cilj programa na dodiplomski stopnji je, da študent usvoji temeljna znanja s področja oblikovalskih procesov, materialov, tehnologij in uporabniške izkušnje, za razumevanje in prakso industrijskega in unikatnega oblikovanja skozi načrtovalske metodologije ter razvije lastne oblikovalske sposobnosti. Preko praktičnih predmetov in s pomočjo pedagogov, ki sodijo med vodilne strokovnjake v oblikovalski stroki v Sloveniji, podpiramo razvoj sposobnosti prepoznavanja in reševanja problemov. Te nadgrajujemo z znanjem, pridobljenim na zgodovinsko-teoretičnih področjih. Multidisciplinaren študij temelji na individualnem pedagoškem pristopu, s čimer preko predavanj, seminarjev in projektnega dela, usmerjamo k celostnemu razvoju oblikovalske osebnosti. Velik poudarek namenjamo tudi praksi in povezovanju z delovnim okoljem, kar omogoča pridobivanje konkretnih izkušenj in vpogled v profesionalno področje. Študenti lahko izbirajo med dvema smerema: Industrijsko oblikovanje in Unikatno oblikovanje.",
+        "Študij omogoča nadaljevanje poglobljenega raziskovanja industrijskega in unikatnega oblikovanja tudi na podiplomski stopnji."
+      ],
+      "criteriaGeneralMatura": [
+        "- Več (Odpre se v novem oknu)"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/industrijsko-in-unikatno-oblikovanje"
+    },
+    {
+      "id": "kiparstvo",
+      "faculty": "Akademija za likovno umetnost in oblikovanje",
+      "name": "Kiparstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program sledi merilom, ki so se na kiparskem oddelku izoblikovala v zadnjih letih in so plod sinteze na eni strani klasičnih vrednot likovne kulture, ki jo je UL ALUO gojila od svoje ustanovitve naprej, in na drugi strani sodobnega dojemanja realnosti, ki se s kiparskim medijem izreka tako o kompleksnih bivanjskih vsebinah posameznika v tehnicističnem času globalizacije kot preprostih pojmih iz vsakdanjega življenja, ki so v preteklosti ostajali zunaj kiparske strukture, danes pa prav z njimi kiparstvo izgovarja občutljive in aktivne vsebine »realnega«.",
+        "Ker se kiparsko polje neprestano širi in spreminja, je temu podvrženo tudi pedagoško delo profesorjev, ki študente seznanjajo z najrazličnejšimi, med seboj lahko tudi izključujočimi se, kiparskimi praksami in jih vpeljujejo vanje. Prav različnost načinov, ki najdejo legalizacijo na isti umetniški ustanovi, je porok za njeno konceptualno širino, tako potrebno za formiranje vsakogar, ki stopa v kiparski medij."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu nadarjenosti 90 % točk,",
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 5 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/kiparstvo"
+    },
+    {
+      "id": "konserviranje-in-restavriranje-likovnih-del",
+      "faculty": "Akademija za likovno umetnost in oblikovanje",
+      "name": "Konserviranje in restavriranje likovnih del",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Konservatorstvo-restavratorstvo je specifična dejavnost, ki se ukvarja z ohranjanjem, preučevanjem, nego in vzdrževanjem kulturne in naravne dediščine.",
+        "Velik del naše kulturne dediščine predstavljajo likovne umetnine – kiparska in slikarska dela v različnih tehnikah, kakovostih in različnih razsežnostih. Strokovno jih razvrščamo na slike na platnu, slike na lesu, slike na drugih nosilcih, stenske slike, mozaike, leseno (polikromirano) plastiko, kamnito (polikromirano) plastiko in zahtevnejša dekorativna likovna dela. Vsa ta dela, vse te umetnine so nepogrešljiv del kulturnega bogastva in materialni temelji narodne samostojnosti. Le z nenehno nego jih potomcem lahko zapustimo strokovno vzdrževane in ohranjene.",
+        "Študijski program je sestavljen iz strokovnega konservatorsko-restavratorskega dela, raziskovalnega dela in umetniškega slikarsko-kiparskega ustvarjanja. Predmetnik je oblikovan tako, da študent postopoma pridobiva strokovno znanje. V prvih letnikih prevladujejo likovni in naravoslovni predmeti, v višjih letnikih pa se zvrstijo strokovni predmeti, ki zaokrožajo celoten program konservatorstva-restavratorstva. Študij dopolnjuje tudi praktično usposabljanje v institucijah."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu nadarjenosti 90 % točk,",
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 5 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/konserviranje-in-restavriranje-likovnih-del"
+    },
+    {
+      "id": "oblikovanje-vizualnih-komunikacij",
+      "faculty": "Akademija za likovno umetnost in oblikovanje",
+      "name": "Oblikovanje vizualnih komunikacij",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Oblikovanje vizualnih komunikacij je vodilni program na tem področju v Sloveniji, z dolgoletno in prepoznano prakso izjemnega poučevanja ter vzpostavljanja strokovnih standardov. Program celostno pokriva področja grafičnega oblikovanja, fotografije in ilustracije ter postavlja smernice za razvoj vizualne kulture v širšem družbenem prostoru.",
+        "Študent_ka skozi predavanja, seminarske vaje, naloge in delo v studiu pridobi temeljno in napredno znanje, ki ga je mogoče neposredno uporabiti v praksi – tako v tiskanih kot digitalnih medijih, kjer delujejo vodilni grafični_e oblikovalci_ke, fotografi_nje in ilustratorji_ke, istočasno pa trdno teoretično osnovo za raziskovalno delo na teh področjih. Po prvem letu se študij usmeri na posamezne smeri, ki se premišljeno in poglobljeno nadgrajujejo na drugi stopnji študija. Program študente_ke spodbuja k razvoju kritične presoje ter jih s številnimi teoretskimi in praktičnimi predmeti usposablja za odgovorno in inovativno delovanje na področju vizualnih komunikacij. Prek številnih sodelovanj s kulturnimi, družbenimi in gospodarskimi institucijami študenti_ke aktivno sooblikujejo sodobni javni prostor.",
+        "Študijski program posebej spodbuja multidisciplinarnost, odprtost in povezovanje med posameznimi študijskimi smermi, kar mladim generacijam omogoča celovit razvoj ustvarjalnih, raziskovalnih in profesionalnih kompetenc. S svojo premišljeno strukturo prvostopenjski program omogoča odličen prehod na magistrsko stopnjo, mnogi diplomanti_ke pa nadaljujejo študij na najprestižnejših evropskih ustanovah ter pomembno prispevajo k razvoju vizualne komunikacije doma in v tujini."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu nadarjenosti 90 % točk,",
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 5 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/oblikovanje-vizualnih-komunikacij"
+    },
+    {
+      "id": "slikarstvo",
+      "faculty": "Akademija za likovno umetnost in oblikovanje",
+      "name": "Slikarstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Celoten študij na Oddelku za slikarstvo je organiziran v obliki razvojne spirale, na kateri se v različnih fazah in na različnih ravneh vključujejo strokovna in splošna znanja, ateljejske izkušnje in tehnološki razvoj, ki skupaj študente spodbujajo k reševanju problemov, eksperimentiranju in inovativnemu mišljenju ter jim odpirajo poti k možnostim individualne prakse. Poglavitni cilj dodiplomskega študija na Oddelku za slikarstvo je v tem, da študentom preko premišljeno in koherentno sestavljenega študijskega programa na študijski smeri Slikarstvo in študijski smeri Video, animacija in novi mediji, s kombinacijo ateljejskih, studijskih, teoretičnih in strokovnih predmetov, omogoči pridobitev primernega znanja in razumevanja, razvoj nujnih osebnih atributov in obvladovanje bistvenih spretnosti, ki opremijo in pripravijo študente za nadaljnji osebni razvoj v okviru likovne umetnosti, oziroma izhajajoč iz nje, in za profesionalno umetniško prakso."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu nadarjenosti 90 % točk,",
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 5 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/slikarstvo"
+    },
+    {
+      "id": "biologija",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Biologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je usposobiti strokovnjaka, ki lahko samostojno opravlja tehnična dela povezana z raziskovanjem v biologiji, mikrobiologiji, ekologiji in je sposoben razumeti rezultate raziskav s področja biomedicine, farmacije, biotehnologije in drugih področij, za katera se zahteva citološka, biokemijska, molekulsko-genetska ali mikrobiološka znanja. V nadaljevanju študija se diplomant programa lahko neposredno vključi v vse programe s področja biologije in naravoslovja ter programe izobraževanja za učitelje biologije."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/biologija"
+    },
+    {
+      "id": "biotehnologija",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Biotehnologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je ponuditi temeljna naravoslovna znanja, nadgrajena s specifičnimi biotehnološkimi vsebinami, ki ustrezajo potrebam najsodobnejših tehnologij in znanj v različnih strokah, ter vključevanje v drugostopenjske magistrske programe. Diplomanti so usposobljeni za kritično presojo relevantnih biotehnoloških tematik ter imajo znanja in veščine, potrebne za samostojno obvladovanje tradicionalnih in sodobnih biotehnoloških postopkov v kmetijstvu, živilstvu, farmaciji, zdravstvu in varstvu okolja."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/biotehnologija"
+    },
+    {
+      "id": "gozdarstvo-in-obnovljivi-gozdi-viri",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Gozdarstvo in obnovljivi gozdni viri",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega progama je, da diplomant pridobi znanje o gozdnih ekosistemih, družboslovnih vidikih gospodarjenja z gozdovi, različnih tehnikah in tehnologijah, ki jih lahko uporabi pri ravnanju z gozdovi ter poznavanje sodobnih metodoloških orodij. Diplomant pridobi kompetence za obvladovanje temeljnih znanj in povezovanje naravoslovnega, tehničnega in družboslovnega področja. Prav tako pridobi informacijsko pismenost na področju gozdarske informatike, razvije okoljsko ozaveščenost ter etičen odnos do narave."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/gozdarstvo-in-obnovljivi-gozdi-viri"
+    },
+    {
+      "id": "kmetijstvo-agronomija",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Kmetijstvo - agronomija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je izobraziti strokovnjaka, ki razume interdisciplinarno naravo stroke, obvlada osnovne raziskovalne metode naravoslovja, tehnologije, ekonomije in družboslovja ter jih zna uporabiti pri upravljanju in udejanjanju trajnostnega razvoja kmetijstva, s poudarkom na rastlinski pridelavi. Pridobljeno znanje, spretnosti in veščine omogočajo nadaljevanje študija na podiplomskem študiju kot zaposlitev, saj so diplomanti usposobljeni za osnovno načrtovanje, organizacijo, vodenje in izvajanje tehnoloških procesov ter podpornih storitev v rastlinski pridelavi."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/kmetijstvo-agronomija"
+    },
+    {
+      "id": "kmetijstvo-zootehnika",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Kmetijstvo - zootehnika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je usposobiti kmetijskega strokovnjaka širokega profila s posebnim poudarkom na znanjih v znanosti o živalih. Diplomant na temeljih naravoslovnih, tehnoloških, okoljskih in splošnih družboslovnih vsebin pridobi celovito razumevanje trajnostnega kmetijstva z izrazitim poudarkom na vprašanjih, povezanih z rejami različnih vrst domačih živali. Usposobljen je za samostojno interdisciplinarno in k praktičnim vprašanjem naravnano delo ter za projektni in timski pristop. Diplomant pozna biološke zakonitosti, zahteve in pravila ravnanja z živalmi za okolju prijazno ter učinkovito gospodarjenje s prostorom in živalmi."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/kmetijstvo-zootehnika"
+    },
+    {
+      "id": "krajinska-arhitektura-2",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Krajinska arhitektura",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je izobraziti diplomanta v disciplinah, ki dajejo znanja, pomembna za načrtovanje rabe prostora, varstva narave in oblikovanja krajine, kot so naravoslovno-ekološka, družbeno-ekonomska, humanistična in kulturološka, tehniška, oblikovalska in načrtovalna znanja, ter v veščinah, kot so risanje in plastično oblikovanje. Diplomanti pridobijo kompetence za izdelovanje zasaditvenih načrtov, načrtov krajinsko-gradbenih del, za izdelovanje popisov del in predračunov, za delo z računalniškimi programi, za pripravljanje in vzdrževanje prostorskih podatkovnih zbirk, za vodenje upravnih postopkov za manj zahtevne posege v prostor in podobna opravila."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/krajinska-arhitektura-2"
+    },
+    {
+      "id": "lesarstvo-2",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Lesarstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je izobraziti strokovnjake, ki so sposobni interdisciplinarno povezati naravoslovne, tehniške, ekonomske in družboslovne vsebine s ciljem trajnostnega razvoja stroke – lesarstva. Diplomanti pridobijo znanja o lesu, tehnologijah predelave in obdelave lesa ter lesnih kompozitov, organizacijska, ekonomska, konstruktorska in oblikovalska znanja. V skladu s sodobnimi izzivi so diplomanti sposobni vrednotiti les kot trajnostni vir, iskati načine za njegovo optimalno rabo, obvladajo vodenje in načrtovanje tehnologij predelave in obdelave lesa ter lesnih kompozitov, konstruiranje lesnih izdelkov, organizacijo in vodenje podjetja ter so usposobljeni za sodelovanje v interdisciplinarnih vodstvenih in raziskovalno-razvojnih ekipah, za gospodarjenje z lesom in lesnimi izdelki ter za sodelovanje pri razvoju izdelkov iz lesa in lesnih kompozitov."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/lesarstvo-2"
+    },
+    {
+      "id": "mikrobiologija-2",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Mikrobiologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je razumevanje živega sveta, mikrobnih procesov in organizmov, nevidnih človeškemu očesu, ki so ključni za življenje na našem planetu. Program daje temeljna naravoslovna znanja (matematike, kemije, statistike, biofizike, biokemije, molekularne in celične biologije, bioinformatike) in specifična znanja o mikrobni fiziologiji, genetiki, taksonomiji, biotehnologiji, ekologiji, virologiji, imunologiji in pomenu mikrobov v medicini. Temeljni cilj študijskega programa je zagotoviti celovito dodiplomsko izobraževanje v mikrobiologiji, ki diplomantu omogoča samostojno uporabo klasičnih in sodobnih orodij v mikrobiologiji, avtonomno odločanje o mikrobiološko relevantnih temah ter diplomanta izobrazi za uspešno sodelovanje in komunikacijo z drugimi naravoslovnimi poklici."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/mikrobiologija-2"
+    },
+    {
+      "id": "zivilstvo-in-prehrana",
+      "faculty": "Biotehniška fakulteta",
+      "name": "Živilstvo in prehrana",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj študijskega programa je usposobiti strokovnjaka, ki je zmožen širokega razumevanja področij živilstvo in prehrana s poudarkom na znanjih in veščinah povezanih z živilstvom, to je pridelave, predelave, kakovosti in trženja hrane ter prehrano kot naravnim nadaljevanjem živilstva, za pravilno, varno in zdravo prehranjevanje oziroma normalen razvoj in ohranjanje človekovega zdravja. Diplomanti bodo usposobljeni za načrtovanje, organiziranje, vodenje in kontrolo proizvodnje hrane ter prehrane ljudi in tudi nekaterih spremljajočih dejavnosti ob upoštevanju naravoslovnih, družboslovnih in okoljskih načel v proizvodnji varne hrane ter izvajanju varne in zdrave humane prehrane."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/zivilstvo-in-prehrana"
+    },
+    {
+      "id": "univerzitetna-poslovna-in-ekonomska-sola",
+      "faculty": "Ekonomska fakulteta",
+      "name": "Univerzitetna poslovna in ekonomska šola",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Na osnovi vsebinske zasnove in izvedbe univerzitetnega študijskega programa diplomant pridobi splošne kompetence za izvajanje ekonomske in poslovne analize, sinteze ter predvidevanje rešitev in posledic na vseh področjih oziroma podsistemih poslovanja profitnih in neprofitnih organizacij (izvajalni podsistem, kjer imamo v mislih kadrovsko, nabavno, proizvodno, raziskovalno-razvojno, prodajno in finančno funkcijo, menedžerski podsistem, kjer imamo v mislih načrtovanje, organiziranje, vodenje in nadziranje ter informacijski podsistem).",
+        "Pri tem se z osnovnim teoretičnim znanjem obravnavanih disciplin seznani tako, da ga lahko neposredno uporabi v praksi.",
+        "Študentje so seznanjeni z razvojno logiko ekonomskih in poslovnih ved ter z umeščenostjo le-teh v širši kontekst znanstvenih disciplin in praktične delitve dela v poslovnem svetu. Osnovno in nadaljevalno znanje poslovnih in ekonomskih znanosti, veščine, vrednote in stališča študentov se razvijajo v sozvočju med posameznimi predmeti in omogočajo študentu oziroma študentki samostojen poklicni in osebnostni razvoj tudi po končanem študiju."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi 60 % točk, • splošni uspeh v 3. in 4. letniku 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/univerzitetna-poslovna-in-ekonomska-sola"
+    },
+    {
+      "id": "arhitektura-2",
+      "faculty": "Fakulteta za arhitekturo",
+      "name": "Arhitektura",
+      "type": "Enoviti magistrski",
+      "duration": 5,
+      "description": [
+        "Temeljni cilj programa je usposobiti strokovnjaka arhitekta za odgovorne naloge arhitekturnega oblikovanja in projektiranja ter urejanja prostora. Odgovornost arhitekta izhaja iz pomena arhitekturnega oblikovanja, kakovosti zgradb, njihove usklajenosti z okoljem ter iz spoštovanja naravne in mestne krajine, ki je v javnem interesu. Poklic arhitekta je večplasten, saj mora biti sposoben razmišljati o ljudeh in njihovih prostorskih problemih v najrazličnejših merilih: od regionalno-planerskega merila do arhitekturne podrobnosti in obratno. Izhajati mora iz sodobnih teoretskih in tehnoloških spoznanj, jih nadgrajevati ter težiti k ravnovesju med funkcionalno-tehniško in umetniško komponento arhitekturnega snovanja.",
+        "Izobrazbeni profil arhitekta združuje tehnična, družboslovna in humanistična znanja v sposobnost urejanja in oblikovanja prostora oziroma gradnje. Rezultati arhitekturnega snovanja so lahko družbeno priznani tudi kot umetniška dela."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi, oziroma pri zaključnem izpitu ali pri poklicni maturi 12,5 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 12,5 % točk,",
+        "- uspeh pri preizkusu sposobnosti za študij arhitekture 75 % točk. Vrednost posameznega dela preizkusa sposobnosti za študij arhitekture se vrednoti sledeče: Prvi del (preizkus likovne in prostorske nadarjenosti) 37,5 %, Drugi del (razgovor s kandidatom) 37,5 %. Kandidati, ki se vpisujejo v višji letnik po merilih za prehode oz. pod pogoji za hitrejše napredovanje, bodo v primeru omejitve vpisa zaradi prevelikega števila prijavljenih kandidatov na razpisana mesta izbrani glede na: povprečna ocena opravljenih predmetov, ki se jih kandidatu prizna, kot izpolnjevanje pogojev za vpis 25 % točk, uspeh pri preizkusu sposobnosti za študij arhitekture 75 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/arhitektura-2"
+    },
+    {
+      "id": "dodaj-program-10",
+      "faculty": "Fakulteta za arhitekturo",
+      "name": "Urbanizem",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Program izobražuje arhitekta urbanista. Temeljni cilj programa je usposobiti strokovnjaka za manj zahtevne naloge urbanističnega načrtovanja in oblikovanja ter urejanja prostora.",
+        "Odgovornost arhitekta urbanista izhaja iz pomena urbanističnega oblikovanja, kakovosti urbanističnih ureditev, njihove usklajenosti z okoljem, ob spoštovanju naravne in mestne krajine, ki je v javnem interesu.",
+        "Poklic arhitekta urbanista je večplasten, saj mora biti sposoben razmišljati o ljudeh in njihovih prostorskih problemih v najrazličnejših merilih: od regionalno-planerskega merila do arhitekture in obratno. Izhajati mora iz sodobnih teoretskih in tehnoloških spoznanj, jih nadgrajevati ter težiti k ravnovesju med funkcionalno-tehniško in umetniško komponento urbanističnega snovanja. Izobrazbeni profil arhitekta urbanista združuje tehnična, družboslovna in humanistična znanja s sposobnostjo urejanja in oblikovanja prostora oz. gradnje urbanih struktur."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/dodaj-program-10"
+    },
+    {
+      "id": "druzboslovna-informatika",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Družboslovna informatika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Družboslovna informatika gradi na štiridesetletni tradiciji raziskovanja in poučevanja podatkovne analitike, metodologije ter družboslovnih vidikov interneta in drugih informacijskih in komunikacijskih tehnologij (IKT) na Fakulteti za družbene vede. Študijski program odgovarja na številne izzive in priložnosti, ki jih prinaša nenehni razvoj digitalnih in interaktivnih tehnologij.",
+        "Program ponuja dve smeri: Digitalne tehnologije in družba ter Uporabna družboslovna informatika. Prva smer je namenjena predvsem tistim, ki jih zanima razumevanje potreb, rab, posledic in družbene vloge interneta in digitalnih storitev, medtem ko druga smer daje večji poudarek računalniškim kompetencam za uporabo in (so)ustvarjanje internetnih in informacijskih rešitev. S tem imajo študenti možnost za izoblikovanje kariernih profilov, ki omogočajo zaposlitev v hitro rastočih sektorjih digitalne družbe, ali pa za nadaljevanje študija na različnih magistrskih programih.",
+        "Možnosti zaposlitve diplomantk in diplomantov obeh smeri so številne in izjemno široke, saj znanja s področja družboslovne informatike vedno bolj potrebujejo v različnih podjetjih, organizacijah in ustanovah, državni upravi, javnem in zasebnem sektorju doma in po svetu. Družboslovni informatiki, ki študij zaključijo na eni od obeh smeri, lahko sodelujejo pri načrtovanju, vrednotenju in implementaciji internetnih in spletnih storitev, hkrati pa so usposobljeni za analizo masovnih (elektronskih) podatkov, ki izhajajo iz njihove uporabe. Diplomanti/-tke se zaposlujejo v različnih organizacijah, npr.: Nacionalni inštitut za javno zdravje, Statistični urad Republike Slovenije, Valicon, Petrol in Outfit7/Ekipa2, Telekom Slovenije, Studio Moderna."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/druzboslovna-informatika"
+    },
+    {
+      "id": "komunikologija-medijske-in-komunikacijske-studije",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Komunikologija - Medijske in komunikacijske študije",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Program Komunikologija - Medijske in komunikacijske študije tako kot večina primerljivih programov v tujini združuje teoretsko kritično obravnavo medijev z medijsko prakso in raziskovanjem sodobnih medijskih fenomenov.",
+        "Jedro programa so tako poleg splošnih družboslovnih predmetov specifični programski predmeti s področja medijskih študij, kot so zgodovina medijev, vizualna kultura, etnografija digitalnih medijev, internetne študije, popularna glasba, alternativni mediji, potrošna kultura, študije občinstev, retorika, medijska globalizacija, hrana in diskurz itd. Tu se študenti in študentke ukvarjajo s kulturno in družbeno vlogo medijskih in kulturnih industrij v sodobni \"medijatizirani\" družbi. Program se opira tako na družboslovno kot na humanistično tradicijo, izvaja pa se na dodiplomski, podiplomski in doktorski stopnji.",
+        "Teoretsko jedro programa, ki se ukvarja s kritično analizo kulturne in družbene vloge medijev in komuniciranja, dopolnjuje medijski praktikum z zunanjimi izvajalci. To so naši sodelavci, ki delajo na različnih področjih medijskih in kulturnih industrij – od fotografije, oglaševanja, vsebinskega marketinga do dokumentarnega filma ali televizijske produkcije – in izvajajo za naše študente praktične seminarje. Taka kombinacija teoretske analize komuniciranja, medijske kulture in medijskih industrij s praktičnim delom v okviru medijskega praktikuma je tudi ena od prednosti programa. Tako teoretski kot praktični del programa omogočata študentom, da se lahko že zgodaj posvetijo različnim vidikom področja glede na njihov intelektualni interes in karierne želje. S pomočjo veščinskih predmetov se program povezuje z medijsko in kulturno produkcijo v praksi, kar daje študentom podlago za delo v kreativnih ali raziskovalnih poklicih, povezanih z mediji, komuniciranjem in popularno kulturo v medijski in kulturni industriji.",
+        "Študijski program Komunikologija - Medijske in komunikacijske študije je namenjen tistim, ki želijo pridobiti univerzitetno izobrazbo za delo v množičnih medijih bodisi kot načrtovalci/-ke uredniške politike ali raziskovalci/-ke v službah za raziskovanje medijskega občinstva in analizo programov. Namenjen je obenem tistim, ki jih zanima delo na različnih področjih medijskega načrtovanja, svetovanja in organiziranja komuniciranja v podjetjih, organizacijah, zavodih.",
+        "Diplomanti/-tke se v največji meri zaposlujejo v naslednjih organizacijah: STA, RTV SLO, Pristop, Univerza v Ljubljani (PR službe in administracija) ter poslovni mediji."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 50 % točk, - splošni uspeh v 3. in 4. letniku 30 % točk, - uspeh pri tujem jeziku pri splošni maturi 10 % točk, - uspeh pri enem od družboslovnih ali humanističnih predmetov (filozofija, psihologija, sociologija, umetnostna zgodovina ali zgodovina) pri splošni maturi 10 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/komunikologija-medijske-in-komunikacijske-studije"
+    },
+    {
+      "id": "komunikologija-trzno-komuniciranje-in-odnosi-z-javnostmi",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Komunikologija - Tržno komuniciranje in odnosi z javnostmi",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Komunikologija – Tržno komuniciranje in odnosi z javnostmi temelji na proučevanju marketinga in odnosov z javnostmi.",
+        "Odgovarja na vprašanje, kaj pomeni integrirano tržno komuniciranje, kako potekajo marketinški odnosi ter kakšne so male skrivnosti velikih mojstrov oglaševanja in odnosov z javnostmi. Študent na programu dobi vpogled v odnose z javnostmi in spozna različne vidike marketinga prek specializiranih marketinških vsebin, kot so denimo vedenje porabnikov, storitveni marketing, raziskovanje in merjenje marketinškega delovanja. Študijski proces je zasnovan tako, da študent poleg spoznavanja vsebin na teoretični ravni pridobiva tudi praktična znanja prek projektnega dela v okviru posameznih predmetov ter neposrednega stika s stroko in prakso v okviru praktikuma s področja marketinga in odnosov z javnostmi, ki se izvaja v 3. letniku. Pri praktikumu študent skozi neposredni stik s strokovnjaki in delo na praktičnih projektih spoznava aktualne trende in dogajanje v praksi marketinga in odnosov z javnostmi.",
+        "Diplomante/-ke najdemo med ključnimi strokovnjaki v vodstvih podjetij, vladnih in nevladnih organizacij, med svetovalci, načrtovalci in izvajalci tržnokomunikacijskih dejavnosti v oglaševanju, pri odnosih z javnostmi, spletnem komuniciranju, pospeševanju prodaje, medijskem in kreativnem načrtovanju, raziskovanju trga, na področju sponzorstev in donatorstva ter samostojnega podjetništva.",
+        "Diplomanti/-tke se v največji meri zaposlujejo v naslednjih organizacijah: 1. Oglaševalske oz. komunikacijske agencije; medijske agencije; raziskovalne agencije - npr. Luna/TBWA, Agencija 101, Pristop Media, Pristop, Shift, Futura DDB, Herman & partnerji, Propiar, Consensus, Mediana, Ipsos ipd. 2. Marketinški oddelki, oddelki za korporativno komuniciranje oz. odnose z javnostmi v podjetjih - npr. Krka, Novartis/Lek, Goodyear, NLB, NKBM, Vzajemna, Iskratel, Sava Turizem, Lidl, Hisense (Gorenje), Atlantik Grupa, Danfoss, Iskraemeco, Mercator, A1, Big Bang, Philips, P&G ipd. 3. Nevladne organizacije (področje komuniciranja) - npr. Rdeči križ Slovenije, Zveza prijateljev mladine Moste-Polje, Ekologi brez meja, Prostorož, Zveza potrošnikov Slovenije, NoExcuse, Slovenian Youth Agency, Amnesty International ipd. 4. Ministrstva in ostale javne institucije – npr. Nacionalni inštitut za Javno zdravje, Ministrstvo za zdravje, Gospodarska zbornica Slovenije, Občina Škofljica, Mestna občina Ljubljana, javni zavod SNG Drama Ljubljana, Univerza v Ljubljani ipd. 5. Ostalo, npr. Predstavništvo EK v Sloveniji, Politične stranke (SD), Medijske hiše – npr. RTV, Pro Plus, Media24, samozaposlitev."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/komunikologija-trzno-komuniciranje-in-odnosi-z-javnostmi"
+    },
+    {
+      "id": "kulturologija-studije-kultur-in-ustvarjalnosti",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Kulturologija – Študije kultur in ustvarjalnosti",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Kulturologija je vznemirljivo polje na stičišču humanistike in družboslovja. Nudi prodorne in inovativne vpoglede v vsakdanje življenje, kulturo in umetnost, pri čemer spodbuja ustvarjalnost, kritično mišljenje in družbeno odgovornost. Kulturologija opremlja študente z orodji za opazovanje, razumevanje, soustvarjanje in tranformiranje družbenokulturnih trendov ter načinov življenja; doma, na delovnem mestu in na ulici; na spletu in v analognem svetu. Kulturologija je področje, ki se zavzema za pravičnost, enakost in trajnost; je tudi področje, zavezano preizpraševanju razmerij moči v sodobnem svetu.",
+        "Dodiplomski program Kulturologija: Študije kultur in ustvarjalnosti na Fakulteti za družbene vede Univerze v Ljubljani, navdihuje življenje. Cilj študija je, da vas pripravi na življenje – danes in v novem svetu, ki se oblikuje pred našimi očmi. Kulturologija vam bo pomagala pri prizadevanjih za pravičnejši, bolj trajnosten in bolj zabaven svet. Študij kulturologije temelji na predmetih, ki vas spodbujajo k razumevanju sveta z vidika kulturne antropologije, medijskih in filmskih študij ter študij različnih popularnokulturnih oblik, kot so videoigre, študij znanosti in tehnologije, študij spolov, religiologije, etničnih študij, filozofije in kritične teorije. Te perspektive podpirajo predmeti, namenjeni razvijanju ustvarjalnih spretnosti in veščin prek v kontekstu različnih, tako klasičnih kot novih medijev – od filma do Tiktoka; in formatov – od romanov do memov.",
+        "Na kratko: študij kulturologije obsega tako širjenje intelektualnih obzorij in pridobivanje interdisciplinarnih raziskovalnih spretnosti kot tudi aktivno pisanje, oblikovanje in ustvarjanje vsebin. Kulturološki študijski programi opremljajo študente s prenosljivimi znanji in spretnostmi ter razvijajo prilagodljivost in interdisciplinarno analitičnost. Odgovarjajo potrebam ustvarjalcev in kuratorjev različnih vrst vsebin, od influencerjev in družbenih aktivistov do medijskih urednikov in producentov popularnokulturnih vsebin. Predstavljajo tudi odlično izhodišče za bodoče strokovnjake na področjih kreativnih in medijskih industrij, umetnosti, varstva, interpretacije in upravljanja kulturne dediščine ter kulturnega turizma. Naši diplomanti, magistri in doktorji znanosti so uspešni na različnih delovnih mestih, od malih in velikih medijskih podjetij do galerij in muzejev; od dediščinskih ustanov do turističnih destinacij; od diplomatskih služb do različnih nevladnih organizacij in raziskovalnih institucij."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oz. zaključnem izpitu: 60 % točk, - splošni uspeh v 3. in 4. letniku: 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/kulturologija-studije-kultur-in-ustvarjalnosti"
+    },
+    {
+      "id": "mednarodni-odnosi",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Mednarodni odnosi",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Mednarodni odnosi ohranja tradicionalni fokus te mlade znanstvene discipline: Kaj ohranja in kaj ogroža mednarodni mir in varnost? Kakšne narave je mednarodni sistem? Kaj so vzroki za mednarodne konflikte? Hkrati pa se osveženi program posebej osredotoča na aktualne izzive v mednarodni skupnosti: pravne interpretacije in prakse suverenosti držav, izziv propadlih držav in de facto držav, globalni vpliv transnacionalnih podjetij, uspešnost mednarodnih vladnih in nevladnih organizacij, vlogo mednarodnih sodišč, digitalizacijo diplomacije, ogrožajoče dejavnosti kriminalnih združb in terorističnih gibanj ter tudi na odgovornost posameznikov.",
+        "V tem oziru se študent lahko glede na lastni interes specializira v modulu vseobsežnih mednarodnih odnosov (mednarodna varnost, okoljevarstvo, aktualni konflikti) ali v modulu evropske regionalne integracije (politično sodelovanje v Evropi, ekonomske politike EU in zunanje delovanje EU). Študij na programu najprej zagotovi zgodovinskorazvojni in teoretski vpogled v nastanek in delovanje sodobne mednarodne skupnosti, nato pa študentu ponudi tudi obilo možnosti za razvoj in krepitev praktičnih veščin in sposobnosti za analizo, kritično vrednotenje ter predpisovanje politike delovanja mednarodnih akterjev.",
+        "Na programu se izvajajo različne oblike študija: interaktivna predavanja domačih in gostujočih predavateljev z vsega sveta, razprave na seminarjih, uporaba spletne učilnice in digitalnih orodij ter sodobni pedagoški pristopi, kot so avtentično in problemsko učenje ter medpredmetno povezovanje. Na programu se močno spodbuja mednarodna izmenjava, prav tako tudi krepitev dobrih medosebnih odnosov v akademski skupnosti z organizacijo tradicionalnih piknikov, športnih iger in drugih družabnih srečanjih, prav tako tudi sprejem brucev in delovanje v študentskih društvih.",
+        "Konkurenčnost diplomanta/-tke zagotavlja usvojitev praktičnih veščin raziskovanja in pisanja analitičnih strokovnih izdelkov (analiza zunanje politike, trgovinski in investicijski profil, SWOT analiza, razvojno poročilo, znanstveni esej, policy paper, pogajalsko stališče države, dosje, diplomatska nota, memo, osnutek resolucije, zapisnik, priprava poslovnika) ter razvijanje kompetence priprave ustnih nastopov v treh tujih jezikih. Diplomanti/-tke se lahko zaposlijo kot diplomati, analitiki za investicije in prodajo v transnacionalnih podjetjih, strokovnjaki v sistemu specializiranih agencij OZN ali evropskih mednarodnih organizacij, eksperti in družbeno-politični aktivisti v mednarodnih nevladnih organizacijah, pa tudi lobisti in novinarji.",
+        "Diplomanti/-tke se v največji meri zaposlujejo v naslednjih organizacijah: Ministrstva (oddelek za mednarodno sodelovanje), Predstavništvo Evropske komisije v Sloveniji (in evropske institucije, EK, EP...), Center za evropsko prihodnost, Trace Labs (Prospeh, d.o.o.) in mednarodni analitski oddelki mednarodnih gospodarskih družb (Krka, Leone, Lek)."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 50 % točk, - splošni uspeh v 3. in 4. letniku 50 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/mednarodni-odnosi"
+    },
+    {
+      "id": "novinarstvo",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Novinarstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Novinarstvo usposablja za samostojno novinarsko delo v sodobnem medijskem okolju. Študentke in študenti najprej pridobijo temeljna politološka, sociološka, komunikološka in pravna znanja, nato pa še celovita teoretska, analitična, jezikovna in tehnična znanja, potrebna pri praktičnem novinarskem delu za tisk, radio, televizijo in digitalne medije.",
+        "Poleg visokošolskih učiteljev in učiteljic so v izvedbo študijskega programa vključena tudi ugledna uredniška ter novinarska imena, ki študentke in študente v okviru različnih predmetov seznanijo z metodami novinarskega dela ter jih vodijo od zasnove do javne objave novinarskih izdelkov (gl. npr. spletno mesto Novinarke.si | Novinarji.si).",
+        "Študentke in študenti so nato v okviru 150-urne prakse še neposredno – in ponovno pod mentorstvom – vključeni v delovni proces vodilnih slovenskih medijev. Po študiju so diplomantke in diplomanti sposobni opravljati raznoliko novinarsko delo, poglobljeno in kritično pojasnjevati aktualne probleme na različnih družbenih področjih, razreševati poklicne dileme in uresničevati idejo novinarstva, odgovornega javnosti."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/novinarstvo"
+    },
+    {
+      "id": "obramboslovje",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Obramboslovje",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Obramboslovje obravnava kompleksno problematiko nacionalne in mednarodne varnosti ter obrambe. Ena od širokih definicij obramboslovja pravi, da je obramboslovje veda o ogrožajočih pojavih in o načinih zoperstavljanja tem grožnjam. Tako se obramboslovje ukvarja s proučevanjem oboroženih konfliktov in vojn, naravnih in drugih nesreč (požari, potresi, poplave, orkani, jedrske nesreče …), kibernetskih in ekoloških groženj, terorizma, nekaterih oblik kriminala itd. Obramboslovje se ukvarja s koncepti in praksami odzivanja na navedene grožnje in posledice (kar vključuje še posebej oborožene sile, zaščito in reševanje, protiteroristično delovanje itd.) ter s tem povezanimi dilemami (npr. civilno-vojaška razmerja ipd.). Pomembna značilnost obramboslovja je njegova interdisciplinarnost – povezuje se z mnogimi vedami in prenaša njihova spoznanja na področje varnosti in obrambe.",
+        "Študijski program Obramboslovje izobražuje strokovnjake za celotni nacionalni obrambno-varnostni sistem (upravni del Ministrstva za obrambo, Slovenska vojska, Obveščevalno-varnostna služba Ministrstva za obrambo, Uprava za zaščito in reševanje ter celotni podsistem varstva pred naravnimi in drugimi nesrečami na državni in lokalni ravni, Ministrstvo za notranje zadeve, Ministrstvo za zunanje zadeve, Slovenska obveščevalno-varnostna agencija, Urad za varovanje tajnih podatkov …), za delo v mednarodnih varnostnih organizacijah (Nato in OVSE) ter institucijah Evropske unije, za delo v medijskih hišah (posebej za vsebine nacionalne in mednarodne varnosti in obrambe) ter v gospodarstvu (v obrambni industriji, na področju kritične infrastrukture ipd.). Zaradi širokih družboslovnih znanj in najrazličnejših kompetenc pa so obramboslovci zaposljivi tudi v drugih organizacijah."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/obramboslovje"
+    },
+    {
+      "id": "politologija-javne-politike-in-uprava",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Politologija – Javne politike in uprava",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Politologija – javne politike in uprava temelji na izkušnjah, znanju in 30-letni tradiciji predhodnega programa, ki smo ga modernizirali z namenom odzivanja na spremenjene nacionalne in globalne okoliščine ter izzive in tudi politične spremembe (npr. članstvo Slovenije v EU in mednarodnih organizacijah).",
+        "V moderniziranem programu ponujamo znanja in kompetence, ki bodo novim generacijam študentov omogočila izgraditi razpoznaven politološki profil diplomanta z dodatnimi in v slovenskem prostoru specifičnimi znanji s področij javnih politik in uprave ter s področja Evropske unije. Na ta način bodo študenti v treh letih pridobili znanja in kompetence, potrebne za zaposlitev v javnem, neprofitnem ali zasebnem sektorju oziroma za nadaljevanje študija.",
+        "Diplomant bo pridobil različna znanja in kompetence, kot so poznavanje in razumevanje študijskega področja – politologije, javnih politik in uprave – ter njegovih fenomenov, zmožnost prilagajanja spremembam v političnem in upravnem okolju, razumevanje raznolikosti med državami in družbami, zmožnost uporabe znanja v praksi. Razvil bo tudi sposobnost samostojnega dela in analiz, argumentirane kritičnosti in priprave alternativnih rešitev v obliki priporočil. Prav tako študentom pridobljena znanja in kompetence omogočajo razvijanje zmožnosti uporabe znanja v praksi in konkretnih situacijah na delovnih mestih, kot je na primer priprava projektnih prijav v okviru domačih in evropskih razpisov.",
+        "Diplomanti programa se zaposlujejo tako v javnem kot tudi zasebnem sektorju (v različnih podjetjih), na primer v političnih ustanovah (v parlamentarnih strukturah, političnih strankah) in civilnodružbenih organizacijah (nevladnih organizacijah, zagovorniških skupinah, interesnih skupinah, sindikatih, zbornicah), v javni in državni upravi (v vladi oziroma vladnih službah, na ministrstvih, v agencijah), v lokalni samoupravi (v občinskih strukturah), v različnih mednarodnih, zlasti evropskih institucijah (v strukturah Evropskega parlamenta, Evropske komisije, v evropskih agencijah, evropskih strankah, nevladnih organizacijah na ravni EU), v medijih (kot novinarji, uredniki, komentatorji, analitiki), prav tako pa tudi v institucionalnem raziskovalnem okviru (javni in zasebni inštituti, uporabno usmerjene analitične enote)."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/politologija-javne-politike-in-uprava"
+    },
+    {
+      "id": "politologija-studije-politike-in-drzave",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Politologija – Študije politike in države",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Nova država je dala študiju politologije poseben polet, zato je postal atraktiven. Tu se obravnavajo vprašanja, ki vsakogar žgečkajo in mikajo, nimajo pa vsi poguma in volje, da bi se lotili bolj poglobljenega študija. Ta je rezerviran za posebej poklicane, za študente politologije teoretsko-analitske smeri. Študijski program Politologija - Študije politike in države omogoča vpogled v politične doktrine in teorije, pojme in koncepte politične znanosti in zgodovine politične misli ter delovanje sodobnih političnih procesov in ustanov. Je teoretsko in praktično naravnan, kar omogoča, da študentke in študenti razumejo sodobna dogajanja v svetu in svojo vlogo v njem. Izurijo se tudi v uporabi metod raziskovanja in analiziranja. Gre za zelo odprt program, ki ima kar 33 % izbirnih predmetov. Zato se študent z izbiro predmetov lahko usmeri na različna področja, ki ga osebno zanimajo in ki mu lahko pomenijo tudi možnost zaposlitve, kot so zunanje zadeve, javna uprava, upravljanje s človeškimi viri, politične stranke, vodstva podjetij, lobiranje, odnosi z javnostmi, vodenje politik, nevladne organizacije, lokalna samouprava, raziskovalne organizacije, evropske institucije in multinacionalna podjetja."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/politologija-studije-politike-in-drzave"
+    },
+    {
+      "id": "dodaj-program-13",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Sociologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Sociologija je edinstvena veda, ki se ukvarja z vsemi oblikami družbenega delovanja in organiziranosti, zavedajoč se njihove globalne prepletenosti. Predvsem pa je zelo aktualna. Sociološki klasik E. Durkheim je pred več kot sto leti zapisal, da iz tega, da sociologi družbo predvsem proučujejo, ne izhaja, da se odrekajo želji, da stvarnost izboljšajo. Seveda to velja še danes. Ob tem, ko se lahko vsi strinjamo s stališčem o uporabni vrednosti sociološkega znanja, se pojavljajo večna vprašanja, kot so: katere in čigave zamisli bodo postale podlaga za načrtovanje in izboljševanje družbe, s kakšnimi sredstvi bo prišlo do izboljševanja, kakšna bodo razmerja med vpletenimi akterji v svetu omejenih materialnih dobrin in neenakomerne razporeditve družbene moči? Na vsa ta vprašanja ponuja odgovore tudi študij sociologije na Fakulteti za družbene vede.",
+        "Študijski program Sociologija je izrazito sodoben in ponuja uravnotežen izbor temeljnih teoretskih in metodoloških znanj ter posebnih socioloških vsebin, s poudarkom na povezovanju družboslovnih disciplin. Študijski proces je organiziran na način, da študente nenehno usmerja k uporabi socioloških znanj pri obravnavi konkretnih vsebin in družbenih vprašanj. Na ta način študentom in študentkam že kmalu po začetku študija omogočimo, da se seznanijo z relevantnimi poklicnimi področji in vzpostavijo stik z bodočimi zaposlovalci.",
+        "Diplomantke in diplomanti programa karierno pot začenjajo in uspešno nadaljujejo v: - zasebnem sektorju – v oddelkih za trženje, kadrovskih službah, medijskih hišah in podjetniškem sektorju; - mednarodnih in nacionalnih nevladnih organizacijah – v inštitutih, think tankih (možganskih trustih), aktivističnih skupinah, mednarodnih strokovnih telesih in razvojnih agencijah; - državnih organih in občinah – v ministrstvih, vladnih službah, uradih, političnih strankah, javni upravi; - javnih zavodih – s področja izobraževanja, kulture, socialnega varstva in športa."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 40 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/dodaj-program-13"
+    },
+    {
+      "id": "sociologija-kadrovski-menedzment",
+      "faculty": "Fakulteta za družbene vede",
+      "name": "Sociologija – Kadrovski menedžment",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Sociologija - Kadrovski menedžment ponuja širok spekter družboslovnih znanj s poudarkom na menedžmentu kadrov in se osredotoča na razumevanje povezanosti sodobne prakse in smernic na področju menedžmenta kadrov ter širše organizacij in družbe. Študent/-ka razvije znanja temeljnih družboslovnih disciplin, s poudarkom na širšem sociološkem razumevanju družbe in sodobnih družbenih sprememb, ki jih študij nadgrajuje s posebnimi znanji, ki diplomantkam in diplomantom omogočajo uspešno delo in načrtovanje kadrovske politike, zaposlovanja, analiziranje dela, skrb za izobraževanje in menedžiranje znanja, za napredovanje in kariero sodelavcev, oblikovanje sistemov ocenjevanja in nagrajevanja ter uravnavanje odnosov med vodstvom in zaposlenimi. Uporabljamo interaktivne in problemsko usmerjene pristope, ki jih kombiniramo z neposrednim sodelovanjem s podjetji in z gostujočimi predavatelji.",
+        "Kariera diplomantke in diplomante preko pridobivanja temeljnih socioloških znanj, ki so kombinirana s strokovnim znanjem na kadrovskem, organizacijskem, poslovnem, pravnem in drugih področjih ter so obenem aplikativno usmerjena, odpira pot v analitično, strokovno, svetovalno in vodstveno delo na kadrovsko-organizacijskem področju v podjetjih in drugih organizacijah, društvih, javnih zavodih, državni upravi in mednarodnih institucijah, obenem pa na temelju interdisciplinarnosti omogoča delo na drugih področjih v skladu z usmeritvijo študentov.",
+        "Diplomanti/-tke se v največji meri zaposlujejo v naslednjih organizacijah: BTC d.d. (sektor za razvoj kadrov in pravne zadeve), Deloitte Slovenija, Zavarovalnica Triglav d.d., Lekarna Ljubljana, Oryx Gaming d.o.o."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/sociologija-kadrovski-menedzment"
+    },
+    {
+      "id": "elektrotehnika-3",
+      "faculty": "Fakulteta za elektrotehniko",
+      "name": "Elektrotehnika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Univerzitetni študijski program Elektrotehnika ponuja širok nabor temeljnih teoretičnih in strokovnih elektrotehniških znanj, ki so podprta z uporabnimi programerskimi spretnostmi. S temi študent razvije sposobnost analitičnega razmišljanja, ki je ključnega pomena za odličnost v raziskovanju na elektrotehniškem področju in širše. Študijski program študentom omogoča široko izbirnost znotraj predmetnikov in delo na realnih projektih, v okviru najsodobnejših svetovnih meril in standardov."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/elektrotehnika-3"
+    },
+    {
+      "id": "farmacija",
+      "faculty": "Fakulteta za farmacijo",
+      "name": "Farmacija",
+      "type": "Enoviti magistrski",
+      "duration": 5,
+      "description": [
+        "Enoviti magistrski študijski program Farmacija je namenjen vsem, ki želijo celovito razumeti zdravila – od ideje v laboratoriju do varne in učinkovite uporabe pri bolniku. Program študente pripravi na raznolike karierne poti v lekarnah, farmacevtski industriji, klinično-biokemičnih in drugih diagnostičnih laboratorijih ter ponuja odlično odskočno desko za nadaljevanje študija na doktorski ravni. Med študijem se študenti poglobijo v svet zdravil in spoznajo celoten proces njihovega razvoja. Naučijo se načrtovati, sintetizirati, izolirati, analizirati in vrednotiti zdravilne učinkovine ter razumeti njihovo delovanje v človeškem telesu. Poudarek je tudi na razvoju farmacevtskih oblik – od klasičnih tehnoloških postopkov do sodobnih nanotehnoloških pristopov – ter vrednotenju kakovosti, varnosti in učinkovitosti zdravil. Program študente opremi tudi z znanjem iz farmakoterapije, strokovnega svetovanja bolnikom ob izdaji zdravil ter analitskih metod in interpretacije rezultatov v klinično-biokemičnih laboratorijih, kar je ključno pri diagnosticiranju bolezni in spremljanju uspešnosti zdravljenja. Študij farmacije tako povezuje znanost, prakso in neposreden vpliv zdravil na zdravje ljudi."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi 40 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 40 % točk,",
+        "- uspeh iz enega od predmetov pri splošni maturi: biologija, biotehnologija, fizika ali kemija 20 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/farmacija"
+    },
+    {
+      "id": "kozmetologija",
+      "faculty": "Fakulteta za farmacijo",
+      "name": "Kozmetologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa Kozmetologija je izobraziti usposobljene strokovnjake za delovna mesta v kozmetični industriji, predpisovalnih organih in inšpekcijski službi, v raziskovalnih ustanovah, predstavništvih s kozmetičnimi izdelki ter pri svetovanju in trženju kozmetičnih izdelkov v različnih ustanovah.",
+        "Tekom študija študenti podrobno spoznajo različne kozmetične izdelke in mesto njihovega delovanja, tj. kožo, sluznice, lase in nohte. Osredotočajo se na naravne in sintezne materiale kot sestavine kozmetičnih izdelkov in kozmetično aktivne sestavine ter njihove želene, škodljive in toksične učinke. Pridobijo znanja o načrtovanju, oblikovanj in izdelavi kozmetičnih izdelkov ter pristopih vrednotenja njihove stabilnosti, varnosti in učinkovitosti, pri čemer je nujno poznavanje in uporaba ustreznih analiznih metod. Dobro poznavanje kozmetične regulative jim da tudi znanja o nadzoru, trženju in oglaševanju kozmetičnih izdelkov.",
+        "Diplomanti študijskega programa Kozmetologija so sposobni samostojno spremljati znanstvene dosežke v kozmetologiji in jih prilagajati potrebam na strokovnem in raziskovalnem področju. Program daje osnove za stalno vseživljenjsko strokovno in znanstveno usposabljanje."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/kozmetologija"
+    },
+    {
+      "id": "laboratorijska-biomedicina",
+      "faculty": "Fakulteta za farmacijo",
+      "name": "Laboratorijska biomedicina",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj triletnega univerzitetnega študijskega programa Laboratorijska biomedicina je izobraziti visoko usposobljene strokovnjake za delovna mesta v medicinskih laboratorijih različnih ožjih področij v laboratorijski medicini, v raziskovalnih ustanovah ter za delovna mesta v dejavnostih, ki so povezana z laboratorijsko medicino. Program daje osnove za nadaljevanje študija na magistrski in/ali specialistični stopnji ter za vseživljenjsko strokovno in znanstveno usposabljanje.",
+        "Študent v času usposabljanja usvoji naslednja znanja in veščine: sposobnost reševanja konkretnih problemov v zvezi z analitiko humanih bioloških vzorcev, sposobnost obvladovanja sodobnih analiznih tehnik v medicinskih laboratorijih s posebnim poudarkom na njihovi tehnični izvedbi in zahtevah za doseganje pravilnosti in natančnosti rezultatov, nauči se vrednotenja uporabnosti rezultatov laboratorijskih preiskav za oceno zdravstvenega stanja preiskovanca, usvoji zakonodajo in etiko, povezani z laboratorijsko medicino, in je sposoben razvijati nove analizne metode ali aplikacije za specifične biološke vzorce."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/laboratorijska-biomedicina"
+    },
+    {
+      "id": "geodezija-in-geoinformatika",
+      "faculty": "Fakulteta za gradbeništvo in geodezijo",
+      "name": "Geodezija in geoinformatika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa prve stopnje Geodezija in geoinformatika je usposobiti strokovnjaka, ki pridobi pregledna splošna temeljna znanja z vseh področij geodezije in geoinformatike ter osnovna znanja iz nekaterih povezanih, za geodezijo in geoinformatiko pomembnih področij.",
+        "V okviru izbirnih vsebin glede na poseben interes študent posamezna povezana področja lahko dodatno poglobi. Seznani se tudi z vsemi posebnostmi v Sloveniji in Evropi kot posledicami posebnih zgodovinskih, družbenoekonomskih ali geografskih značilnosti. Z delom v skupinah, s projektnim delom in s problemskimi nalogami se privaja dela v skupini, javnega nastopanja in poslovanja s strankami. Pridobljena teoretična znanja v dobršni meri preskusi na primerih vaj in realnih primerih uporabe, kar mu omogoča hitro vključitev v prakso po končanem študiju.",
+        "Obenem je cilj usvojitev zadostnega obsega temeljnih inženirskih vsebin, ki omogočajo razvoj abstraktnega mišljenja in uspešno nadaljevanje študija na različnih programih druge stopnje."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/geodezija-in-geoinformatika"
+    },
+    {
+      "id": "gradbenistvo",
+      "faculty": "Fakulteta za gradbeništvo in geodezijo",
+      "name": "Gradbeništvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomant prvostopenjskega študija Gradbeništvo pridobi predvsem naslednje predmetnospecifične kompetence: obvladovanje temeljnih teoretičnih znanj, bistvenih za tehnično področje gradbeništva, obvladovanje temeljnih strokovnih znanj gradbeništva in bistvenih komplementarnih ved (geologije, geodezije, organizacije del, informatike), temeljno usposobljenost v gradbeništvu, ki omogoča nadaljevanje študija na drugi stopnji, zmožnost samostojnega pridobivanja novih veščin.",
+        "Diplomant je sposoben samostojno opravljati manj zahtevna dela in reševati posamezne dobro definirane naloge v gradbeništvu pri projektiranju in izvajanja del (tako za stavbe kot za gradbene inženirske objekte).",
+        "Moduli",
+        "- Hidrotehnika",
+        "- Komunala",
+        "- Konstrukcije",
+        "- Promet",
+        "- Stavbarstvo"
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/gradbenistvo"
+    },
+    {
+      "id": "vodarstvo-in-okoljsko-inzenirstvo",
+      "faculty": "Fakulteta za gradbeništvo in geodezijo",
+      "name": "Vodarstvo in okoljsko inženirstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomant univerzitetnega študijskega programa prve stopnje Vodarstvo in okoljsko inženirstvo pridobi pregledna splošna temeljna znanja iz naravoslovja in družboslovja, obenem pa osnovna temeljna in uporabna (gradbeno)tehniška znanja za reševanje preprostih upravnih postopkov in planiranje, načrtovanje, izvedbo in vzdrževanje manj zahtevnih gradbenih inženirskih objektov vodarskega in okoljskega inženirstva.",
+        "V okviru študija študent ob teoretičnih temeljnih znanjih spozna tradicionalna načela vodarstva, nadgrajena z najnovejšimi dognanji stroke, posredovanimi na sodoben način s sodobno tehnologijo.",
+        "Z delom v skupinah, projektnim delom, terenskim delom in reševanjem problemskih nalog se privaja na interdisciplinarno delo v skupini, uči veščin nastopanja pred strokovno in laično javnostjo ter se seznani s poslovanjem s strankami v upravnih postopkih in v postopkih javnega naročanja ter projektiranja objektov in ukrepov. Vsa pridobljena teoretična znanja, kolikor je le mogoče, preskusi na primerih vaj in realnih primerih uporabe, kar mu omogoča lažjo vključitev v prakso po končanem prvostopenjskem študiju."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/vodarstvo-in-okoljsko-inzenirstvo"
+    },
+    {
+      "id": "biokemija",
+      "faculty": "Fakulteta za kemijo in kemijsko tehnologijo",
+      "name": "Biokemija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Predmetnospecifične kompetence, ki jih diplomant pridobi s programom, so sposobnost uporabe pridobljenega znanja in standardne metodologije pri reševanju znanih problemov v biokemiji, sposobnost varnega dela v biokemičnem laboratoriju in samostojnega izvajanja ocene tveganja, sposobnost samostojne izvedbe biokemičnih analiz in eksperimentov, razumevanje meja zanesljivosti eksperimentalnih podatkov in sposobnost izvedbe manjšega projekta, za katerega ni nujno, da njegov rezultat zadošča merilom za objavo."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/biokemija"
+    },
+    {
+      "id": "kemija",
+      "faculty": "Fakulteta za kemijo in kemijsko tehnologijo",
+      "name": "Kemija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Predmetnospecifične kompetence, ki jih diplomant pridobi s programom, so znanje in razumevanje bistvenih dejstev, konceptov, načel in teorij glavnih kemijskih disciplin, uporaba tega znanja za reševanje kemijskih problemov s standardno metodologijo ob uporabi kvalitativnih in kvantitativnih informacij ter razumevanje in zmožnost razlage meje zanesljivosti eksperimentalnih podatkov.",
+        "Diplomant razvije sposobnost prepoznavanja in uporabe dobre eksperimentalne znanosti in prakse. Zmožen je samostojnega in varnega dela v laboratoriju ter zna oceniti tveganje pri rokovanju s kemikalijami.",
+        "Ob koncu študija diplomant zna izvesti standardne laboratorijske postopke ter uporabiti instrumente pri sintezi in analizi organskih in anorganskih substanc. Zna spremljati, opazovati in meriti kemijske lastnosti, dogodke in spremembe ter jih sistematično in zanesljivo zapisovati in dokumentirati, obenem pa zna interpretirati eksperimentalne podatke in opazovanja ter jih povezati z ustrezno teorijo."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/kemija"
+    },
+    {
+      "id": "kemijsko-inzenirstvo",
+      "faculty": "Fakulteta za kemijo in kemijsko tehnologijo",
+      "name": "Kemijsko inženirstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomanti študijskega programa Kemijsko inženirstvo znajo uporabljati standardno metodologijo pri reševanju znanih problemov, varno delati v laboratoriju in sami izvajati ocene tveganja, razumejo in znajo razložiti meje zanesljivosti svojih eksperimentalnih podatkov. Kot delavci v kemijski ali farmacevtski industriji so sposobni zbirati in interpretirati relevantne znanstvene podatke in sprejemati odločitve, ki zahtevajo globok razmislek o relevantnih znanstvenih in etičnih vprašanjih. Uspešno znajo izvesti raziskovalni projekt, za katerega sicer ni nujno, da njegov rezultat zadošča merilom za objavo. Pridobijo znanje ustreznih temeljnih ved in njihove geneze (še posebej matematike, kemije, fizike) za razumevanje, opisovanje in reševanje pojavov v kemijskem inženirstvu, sposobni so razumeti splošno strukturo kemijskega inženirstva in povezanosti med poddisciplinami ter razumeti osnovna načela kemijskega inženirstva. Sposobni so izvesti ustrezne postopke načrtovanja in reševanja problemov z uporabo znanstvenih metod in orodij na danem specialnem področju."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri maturi oziroma zaključnem izpitu - 60 % točk,",
+        "- splošni uspeh v 3. in 4. letniku - 40 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/kemijsko-inzenirstvo"
+    },
+    {
+      "id": "tehniska-varnost",
+      "faculty": "Fakulteta za kemijo in kemijsko tehnologijo",
+      "name": "Tehniška varnost",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Osnovni namen programa je izobraziti inženirja, ki bo znal reševati industrijske probleme, povezane z varnostjo, z varstvom pri delu in požarno varnostjo, pa tudi z varnostnimi vidiki varstva okolja. Obenem pa program s splošnimi znanji iz naravoslovja in tehnike nudi dobro osnovo za specializiran nadaljnji študij posameznih področij, povezanih z varnostjo.",
+        "Namen izobraževanja je doseči visoko specializiranost v poklicu ter zgraditi osnovo za raziskovalno delo in izobraževanje v podiplomskih programih. Predmetnospecifične kompetence, ki jih diplomant pridobi, so: poznavanje procesov, metod dela, okoliščin in razmer, ki zagotavljajo varnost pri delu, poznavanje in učinkovita uporaba metod preprečevanja onesnaževanja okolja, požarov, poškodb in zdravstvenih okvar, poznavanje osnov ekonomike, ergonomije, psihologije, poznavanje učnih metod in postopkov za uvajanja v varno delo, razumevanje vsebin tehniških in drugih predpisov, ki se nanašajo na podjetje in tehniško varstvo okolja, varno načrtovanje v gradbeništvu, strojništvu, pri električnih napeljavah ter vodenje služb, ki se ukvarjajo z varstvom pri delu in požarno varnostjo."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/tehniska-varnost"
+    },
+    {
+      "id": "financna-matematika",
+      "faculty": "Fakulteta za matematiko in fiziko",
+      "name": "Finančna matematika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj dodiplomskega univerzitetnega programa Finančna matematika je vzgojiti strokovnjaka, ki bo sposoben reševati zahtevne matematične probleme, ki se pojavljajo v bančnem in zavarovalniškem sektorju, pri delovanju borze in borzno-posredniških hiš ter pri upravljanju pokojninskih in zdravstvenih skladov. Poleg tega diplomanti pridobijo dovolj teoretičnih znanj za nadaljevanje študija na drugi stopnji."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/financna-matematika"
+    },
+    {
+      "id": "fizika",
+      "faculty": "Fakulteta za matematiko in fiziko",
+      "name": "Fizika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa Fizika je usposobiti strokovnjaka, ki bo sposoben reševati probleme, ki se pojavljajo pri raziskavah fizikalnih lastnosti materialov, razlagi lastnosti in zgradbe snovi in pojavov v naravi ter s tem povezanimi novimi tehnologijami, obvladal pa bo tudi delo z informacijskimi sistemi.",
+        "Diplomanti študijskega programa Fizika imajo možnosti za zaposlovanje na področjih, kot so raziskovalna dejavnost, visoko šolstvo, računalniška industrija, elektro- in elektronska industrija, telekomunikacije, optična industrija, strojna industrija, gradbeništvo, energetika, kemična industrija, farmacevtska industrija, zdravstvo, certifikacijske ustanove, izobraževanje in mediji, finance, državna uprava (različne agencije).",
+        "Diplomanti Astronomske smeri pridobijo izkušnje pri zelo raznovrstnih problemih, ki se pojavljajo pri fizikalni razlagi pojavov v vesolju.",
+        "Diplomanti Izobraževalne smeri dobijo široko izobrazbo iz temeljne fizike ter osnovne veščine komuniciranja in posredovanja znanstvenih dognanj širši javnosti.",
+        "Diplomanti Meteorološke smeri so usposobljeni za reševanje problemov s področja temeljne fizike atmosferskih pojavov in za razumevanje osnov njihovega matematičnega opisa v modelih za vremenske in klimatske procese ter s področja geofizike in interdisciplinarnih področij."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/fizika"
+    },
+    {
+      "id": "matematika",
+      "faculty": "Fakulteta za matematiko in fiziko",
+      "name": "Matematika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa Matematika je usposobiti diplomanta za reševanje zahtevnih matematičnih problemov, ki se pojavljajo v gospodarstvu, javni upravi in znanosti. Diplomant pridobi tudi temeljna znanja, ki so potrebna za študij na drugi stopnji."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/matematika"
+    },
+    {
+      "id": "pedagoska-matematika",
+      "faculty": "Fakulteta za matematiko in fiziko",
+      "name": "Pedagoška matematika",
+      "type": "Enoviti magistrski",
+      "duration": 5,
+      "description": [
+        "Program je namenjen predvsem izobraževanju gimnazijskih učiteljev matematike ter po sestavi in po obsegu pedagoških vsebin zadošča zahtevam za poučevanje matematike kot samostojnega predmeta na vseh ravneh preduniverzitetnega šolanja. Diplomanti tega programa lahko poučujejo matematiko v srednjih šolah vseh smeri. Lahko se zaposlujejo na ustanovah, ki se ukvarjajo z razvojem šolstva. Zaradi sposobnosti analitičnega mišljenja in uporabe informacijske tehnologije zlahka dobijo zaposlitev tudi v gospodarstvu. Diplomanti so sposobni nadaljevati študij na tretji stopnji."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi - 30% točk",
+        "- uspeh iz matematike pri splošni maturi - 30% točk",
+        "- splošni uspeh v 3. in 4. letniku srednje šole - 20% točk",
+        "- uspeh iz matematike v 3. in 4. letniku srednje šole - 20% točk"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/pedagoska-matematika"
+    },
+    {
+      "id": "tehnologija-prometa-in-logistika",
+      "faculty": "Fakulteta za pomorstvo in promet",
+      "name": "Tehnologija prometa in logistika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Splošne kompetence v transportu, prometu in transportni logistiki, ki jih diplomanti pridobijo s programom, so: sposobnosti in znanja iz temeljnih naravoslovno-tehničnih vsebin, ki omogočajo njihovo implementacijo v temeljne strokovne in izbirne predmete ter nadgradnjo na podiplomskem magistrskem študiju prometnih ved.",
+        "Diplomant je usposobljen za uporabo pridobljenega znanja za reševanje problemov pri vodenju transportnih, prometnih in transportnologističnih postopkov v praksi.",
+        "Program omogoča tudi pridobitev znanj iz predmetov, povezanih s tehniko, računalništvom, informatiko, inteligentnimi transportnimi sistemi, transportnim in prometnim inženirstvom, uporabo znanja pri reševanju problemov eksploatacije prometne infrastrukture, transportnih sredstev, organizacije in tehnologije posameznih prometnih panog in njihovo nadgradnjo ter ponuja specifična znanja iz operacijskih raziskav, verjetnosti in statistike, varnosti v prometu, varstva okolja v prometu ipd. za izvajanje transportnih, prometnih in logističnih procesov na hiter, varen, zanesljiv, racionalen in ekološko neoporečen način."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 40 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/tehnologija-prometa-in-logistika"
+    },
+    {
+      "id": "racunalnistvo-in-informatika-2",
+      "faculty": "Fakulteta za računalništvo in informatiko",
+      "name": "Računalništvo in informatika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Prvostopenjski univerzitetni študijski program Računalništvo in informatika podaja bodočim inženirjem dovolj strokovne podlage, da so lahko tudi po zaključku dodiplomskega študija sposobni slediti tehnološkim spremembam ter da so lahko v nadaljevanju svoje kariere uspešni v domačem in v mednarodnem okolju. Študente pripravi na odgovorno samostojno strokovno delo na vseh področjih, ki zahtevajo dobro izobražene računalniške strokovnjake.",
+        "Študijski program je za vse študente v prvem letniku enak, od drugega letnika naprej pa ponuja izbirnost, ki omogoča študentom usmerjanje študija glede na interese, motivacijo in nagnjenja po strokovni specializaciji. Izbirnost je organizirana tako, da študent v 2. letniku izbira strokovno izbirni predmet med tremi možnimi predmeti, v 3. letniku pa izbere štiripredmetni modul, ki združuje vsebinsko zaokrožene predmete z naslednjih področij:",
+        "· Informatika · Programska oprema · Računalniški sistemi in omrežja · Umetna inteligenca · Medijske tehnologije Program dodatno ponuja tudi izbirnost mehkejših predmetov in splošno izbirnih vsebin. Zaključi se z izdelavo diplomske naloge, zagotavlja pa dobro osnovo za nadaljevanje študija na drugi stopnji."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu 60 % točk, - splošni uspeh v 3. in 4. letniku 35 % točk, - uspeh iz matematike v 3. in 4. letniku 5 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/racunalnistvo-in-informatika-2"
+    },
+    {
+      "id": "socialno-delo",
+      "faculty": "Fakulteta za socialno delo",
+      "name": "Socialno delo",
+      "type": "Univerzitetni",
+      "duration": 4,
+      "description": [
+        "Univerzitetni dodiplomski študijski program Socialno delo je namenjen izobraževanju strokovnjakinj in strokovnjakov s posebnim teoretičnim in metodološkim znanjem, ki ljudem omogoča, da rešujejo kompleksne življenjske probleme.",
+        "Diplomirana socialna delavka ali diplomirani socialni delavec sodeluje z ljudmi v njihovem družbenem kontekstu. Skupaj iščejo rešitve in alternative. Z institucionalnimi sredstvi in na ustvarjalen način z raziskovanjem možnosti socialne delavke in delavci pomagajo ljudem, da živijo čim bolj samostojno. Nudijo človeško podporo in strokovno pomoč pri premagovanju stisk, ki izhajajo iz ekonomskih ali osebnih razlogov ali zaradi nesreč, ki ogrožajo blaginjo ljudi. Zlasti si prizadevajo krepiti moč ljudi, ki se soočajo z izključenostjo iz družbenega življenja, sfere dela itd. Socialno delo uporablja metode, ki omogočajo delo na vseh ravneh (posameznik, družina, delovna skupina, soseska, lokalna skupnost).",
+        "Socialne delavke in delavci niso zaposleni le na področju socialnega varstva, temveč na katerem koli mestu, kjer ljudje delajo in živijo - v lokalnih skupnostih, v izobraževanju, varstvu otrok, zdravstveni oskrbi, sodnih kazenskih sistemih, v agencijah za zaposlovanje, prostovoljnih organizacijah in drugod."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi oziroma zaključnem izpitu - 60 % točk,",
+        "- splošni uspeh v 3. in 4. letniku - 40 % točk,"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/socialno-delo"
+    },
+    {
+      "id": "strojnistvo-razvojno-raziskovalni-program",
+      "faculty": "Fakulteta za strojništvo",
+      "name": "Strojništvo - Razvojno raziskovalni program",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj programa je diplomantu omogočiti kakovostno znanje s trdno temeljno podlago znanj in razumevanja širšega področja strojništva, ki mu v primeru zaključka študija daje ustrezne kompetence za zaposljivost, v primeru nadaljevanja študija pa pridobljeno znanje predstavlja ustrezno izhodišče za raziskovalni študij na podiplomski stopnji.",
+        "Cilj je razviti sposobnost kritične analize in sinteze ter vzgojiti profesionalno inženirsko odgovornost. S pridobljeno izobrazbo na širšem področju strojništva, primerljivo s sorodnimi študijskimi programi v Evropi, je diplomant programa sposoben interdisciplinarnega povezovanja različnih področij."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/strojnistvo-razvojno-raziskovalni-program"
+    },
+    {
+      "id": "upravljanje-javnega-sektorja",
+      "faculty": "Fakulteta za upravo",
+      "name": "Upravljanje javnega sektorja",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Univerzitetni študijski program prve stopnje Upravljanje javnega sektorja je izrazito interdisciplinaren in sledi razvoju sodobne javne uprave, kjer se poleg znanj iz upravnega prava vse bolj uveljavljajo znanja iz ekonomike, organizacije in informatike, kar ustreza najširši paleti del in nalog, ki jih je treba reševati v upravni praksi, prav tako pa zagotavlja potrebne teoretične in strokovne osnove za učinkovito in sistematično poglabljanje pridobljenega znanja na drugi stopnji. Predmetnik se razdeli na dve smeri: splošno in smer Upravljanje v evropski uniji .",
+        "Program daje študentom potrebna teoretična in praktična znanja za reševanje konkretnih strokovnih problemov v upravni praksi, obenem pa jih uvaja tudi v osnove raziskovanja, ki so potrebne za nadaljevanje študija na drugi stopnji študija uprave. S pomočjo izbirnih predmetov lahko študent še poglobi in utrdi znanje v smeri, ki mu je najbližja ali v kateri namerava poglobiti svoje znanje na drugi stopnji.",
+        "S programom študentje pridobijo kompetence za neposredno zaposlitev na najširšem področju delovanja uprave, javnega sektorja, javnih pa tudi zasebnih podjetij."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/upravljanje-javnega-sektorja"
+    },
+    {
+      "id": "kineziologija-2",
+      "faculty": "Fakulteta za šport",
+      "name": "Kineziologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj programa je izobraževanje kineziologov za delo v programih kondicijske priprave, v programih fitnes centrov, v programih športa in turizma ter v preventivnih zdravstvenih programih.",
+        "Diplomant pozna antropološko-kineziološke temelje športa, bio-psiho-socialne značilnosti posameznih starostnih skupin in spolov, zdravstvene, fiziološke in biomehanske vidike telesne obremenitve.",
+        "Ob zaključku študija je diplomant sposoben načrtovanja, izvedbe in nadzora vadbe za izboljšanje gibalnih, funkcionalnih in telesnih značilnosti zdravih oseb, pozna značilnosti zdrave prehrane ter zna svetovati na področju prehranskih dodatkov v povezavi z vadbo in zdravim načinom življenja.",
+        "Zna izdelati preventivni vadbeni program in lahko sodeluje pri rehabilitaciji nekaterih tipičnih težav gibalnega sistema (debelost, bolečina v križu, kolenu, ramenu, gležnju). Usposobljen je za delo s sodobnimi vadbenimi tehnologijami."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu gibalnih sposobnosti in znanj 40 % točk, - splošni uspeh pri splošni maturi oziroma zaključnem izpitu 45 % točk, - splošni uspeh v 3. in 4. letniku 15 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/kineziologija-2"
+    },
+    {
+      "id": "sportna-vzgoja",
+      "faculty": "Fakulteta za šport",
+      "name": "Športna vzgoja",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa prve stopnje Športna vzgoja je izobraževanje strokovnjakov za delo v obšolskih dejavnostih v osnovnih in srednjih šolah, v obšolskih dejavnostih v drugih vzgojno-izobraževalnih ustanovah in programih ter v športnih programih otrok in mladine v zasebnem sektorju.",
+        "Diplomantu pridobljene kompetence omogočajo učinkovito načrtovanje, izvedbo in evalvacijo športne vadbe na področjih svojega delovanja.",
+        "Diplomant razume antropološko-kineziološke temelje športa, pozna zdravstvene, fiziološke in osnovne biomehanske vidike športa, pozna splošne didaktike športno-vzgojnega procesa, pozna biološki razvoj otrok in mladine, pozna osnove dela z otroki in mladostniki s posebnimi potrebami, obvlada ustrezne diagnostične postopke na strokovnem področju, pozna didaktike posameznih športov, ki so v učnem načrtu za športno vzgojo oz. šport, ima organizacijske sposobnosti in znanja za izvedbo šolskih in zunajšolskih športnih programov, usposobljen je za delo s sodobnimi učnimi tehnologijami pri športni vzgoji."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu gibalnih sposobnosti in znanj 40 % točk, - splošni uspeh pri splošni maturi oziroma zaključnem izpitu 45 % točk, - splošni uspeh v 3. in 4. letniku 15 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/sportna-vzgoja"
+    },
+    {
+      "id": "sportno-treniranje",
+      "faculty": "Fakulteta za šport",
+      "name": "Športno treniranje",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Športno treniranje izobražuje strokovnjake, ki bodo delovali v športu mladih, kakovostnem športu, vrhunskem športu in športu invalidov.",
+        "Pri športnem treniranju gre za sistematičen pedagoški proces, didaktična načela, oblike in metode dela so prilagojene homogenim skupinam vadečih (z vidika znanj, gibalnih sposobnosti, telesnih značilnosti, zlasti pa motivacije).",
+        "Trener vodi vadečega skozi dolgotrajen proces treninga, ki vključuje vse stopnje učnega procesa: načrtovanje dela, posredovanje novih učnih vsebin, utrjevanje, spremljanje, preverjanje, tekmovanje. Študent pridobi najnovejša teoretična in praktična znanja za načrtovanje, organiziranje, vodenje in analiziranje trenažnega procesa za potrebe vrhunskega športa in v storitvenem sektorju. Diplomanti se lahko zaposlijo v klubih, društvih, nacionalnih panožnih zvezah, različnih športnih organizacijah, v zasebnem sektorju itd."
+      ],
+      "criteriaGeneralMatura": [
+        "- uspeh pri preizkusu gibalnih sposobnosti in znanj 40 % točk, - splošni uspeh pri splošni maturi, poklicni maturi oziroma zaključnem izpitu 45 % točk, - splošni uspeh v 3. in 4. letniku 15 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/sportno-treniranje"
+    },
+    {
+      "id": "anglistika",
+      "faculty": "Filozofska fakulteta",
+      "name": "Anglistika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomanti univerzitetnega študijskega programa Anglistika pridobijo vsa znanja in medkulturne jezikovne zmožnosti, ki po mednarodnih standardih veljajo kot temeljna znanja in zmožnosti diplomiranega anglista oz. amerikanista, in so usposobljeni za kritično in fleksibilno uporabo pridobljenih znanj in zmožnosti v različnih okoliščinah - diplomanti dvopredmetne smeri tudi v povezavi z drugim predmetom oz. področjem svojega študija. Med pridobljenimi znanji in zmožnostmi velja posebej izpostaviti naslednja: poznavanje angleškega jezikovnega sistema na vseh ravneh, zmožnost slušne, govorne, bralne in pisne rabe angleščine, znanja o jezikovnem stiku med angleščino in slovenščino, znanja o pogojih in različnih okoliščinah medkulturnega sporazumevanja, osnovno poznavanje kultur in književnosti angleško govorečih skupnosti, odprtost in zmožnost razumevanja domačih in nedomačih govorcev angleščine, sposobnost jezikovnega sodelovanja in odpravljanja sporazumevalnih ovir ter zavest o potrebi stalnega izpopolnjevanja že pridobljenih znanj in zmožnosti skladno s hitrim razvojem stroke."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/anglistika"
+    },
+    {
+      "id": "anticni-in-humanisticni-studiji",
+      "faculty": "Filozofska fakulteta",
+      "name": "Antični in humanistični študiji",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "S programom diplomant pridobi temeljno pregledno znanje iz antične politične in kulturne zgodovine, književnosti, filozofije, religije in mitologije, vsakdanjega življenja ter drugih področij antične materialne in duhovne kulture. Poseben poudarek velja latinskemu srednjemu veku in humanizmu ter recepciji grško-rimske kulture od renesanse do sodobnosti. Z izbiro smeri se študent usmeri v temeljit študij enega od dveh klasičnih jezikov. Grška in rimska književnost in kultura sta v programu zastopani enakovredno.",
+        "Diplomant tako pridobi široko klasično-humanistično izobrazbo, pregledno znanje iz antične zgodovine, književnosti in kulture ter specifične filološke kompetence: obvladovanje enega od dveh klasičnih jezikov s sposobnostjo branja različnih vrst besedil v izvirniku ter razumevanje zgodovine jezika in njegovega vpliva na sodobne jezike. Ima temeljno znanje za samostojno delo v raziskovanju, literarnem prevajanju in na drugih področjih, ki zahtevajo temeljito in natančno delo z besedilom, sodeluje pa lahko tudi pri delu na sorodnih področjih, kjer je znanje klasičnih jezikov nepogrešljivo: v arheologiji in muzeologiji, zgodovini, umetnostni zgodovini, jezikoslovju in literarnih vedah."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/anticni-in-humanisticni-studiji"
+    },
+    {
+      "id": "arheologija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Arheologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomanti in diplomantke študijskega programa pridobijo mednarodno primerljiva temeljna znanja iz arheologije. Ta jim omogočajo prepoznavanje arheoloških virov, njihovo osnovno funkcionalno, časovno, prostorsko in kulturno ovrednotenje ter kritično uporabo strokovne in znanstvene arheološke literature.",
+        "Z usvojenim znanjem je diplomant usposobljen za opravljanje pomožnih in strokovnih tehničnih nalog v muzejih in na zavodih za varstvo kulturne dediščine pa tudi v drugih kulturnih ustanovah in javnih službah, medijih ter gospodarskih družbah, ki se ukvarjajo s kulturo, dediščino, turizmom in prostorskim planiranjem.",
+        "Osnovno poznavanje in obvladovanje metod in tehnik arheološkega terenskega, poterenskega in laboratorijskega dela ter dokumentacijskih postopkov mu omogoča, da uspešno sodeluje kot tehnični sodelavec pri terenskih in poterenskih arheoloških raziskavah ter v projektih evidentiranja, varovanja, vrednotenja, predstavljanja in promocije (arheološke) kulturne dediščine.",
+        "Prvostopenjski študijski program Arheologija študente pripravlja na nadaljevanje študija arheologije na drugi stopnji."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/arheologija"
+    },
+    {
+      "id": "azijske-studije",
+      "faculty": "Filozofska fakulteta",
+      "name": "Azijske študije",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Glavni cilj tega programa je študentom zagotoviti trdne temelje jezikovnega znanja, ki vključujejo ustno in pisno razumevanje in izražanje v jeziku, značilnega za izbrano vzhodnoazijsko regijo. S celovitim jezikovnim usposabljanjem bodo študenti razvili poglobljeno razumevanje fonetike, slovnice, besedišča in skladnje ciljnega jezika. Pridobili bodo spretnosti, potrebne za učinkovito in tekoče sporazumevanje v različnih okoliščinah. Poleg jezikovnega znanja je temelj programa poznavanje in kritični razmislek o družbeno-zgodovinskih in intelektualnih temah, povezanih z ustrezno regijo.",
+        "Po končanem programu bodo diplomanti medkulturno osveščeni in bodo sposobni preseči evropocentrično dojemanje sveta. Poleg tega bodo opremljeni z inovativnimi pristopi k medosebnim odnosom, kar jim bo omogočilo učinkovito krmarjenje v medkulturnih interakcijah in vzpostavljanje pomembnih vezi.",
+        "Na splošno je cilj tega programa pripraviti diplomante in diplomantke, ki ne bodo le jezikovno vešči, ampak bodo tudi celovito razumeli kulturne in civilizacijske vidike izbrane vzhodnoazijske regije. Postali bodo intelektualno odprti in kritični posamezniki, ki so dobro pripravljeni na sodelovanje s svetom, učinkovito komuniciranje in krmarjenje v zapletenih razmerah naše vse bolj povezane globalne družbe."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/azijske-studije"
+    },
+    {
+      "id": "bibliotekarstvo-in-informatika",
+      "faculty": "Filozofska fakulteta",
+      "name": "Bibliotekarstvo in informatika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj obeh smeri univerzitetnega študijskega programa Bibliotekarstvo in informatika je izobraziti strokovnjaka oziroma strokovnjakinjo za delo na področju nastajanja, izbiranja, urejanja, shranjevanja in posredovanja publikacij in informacij. Namenjen je vsem, ki želijo delati v knjižnicah, založbah in knjigarnah, omogoča pa tudi zaposlovanje v raznovrstnih organizacijah, ki se zaradi svoje osnovne dejavnosti ukvarjajo tudi s temi področji. Program daje osnovo tudi za vseživljenjsko strokovno in znanstveno usposabljanje, saj kandidati in kandidatke pridobijo znanja in spretnosti za obvladanje sveta informacij.",
+        "Splošne kompetence obeh smeri prvostopenjskega programa Bibliotekarstvo in informatika so: - sposobnost učinkovite uporabe informacijske tehnologije in informacijskih virov; - razumevanje znanstvenega aparata, seznanjenost s temeljnimi raziskovalnimi metodami; - sposobnost za sodelovanje in skupinsko delo, a tudi za samostojno delovanje; - sposobnost predajanja znanja z ustreznim pisnim in govornim izražanjem; - zavedanje pomena vseživljenjskega učenja in prilagajanja spremembam; - sposobnost samostojnega pridobivanja znanj; - sposobnost prenosa znanj v prakso; - kritično mišljenje in ustvarjalnost; - občutljivost za etična merila in zavezanost profesionalni etiki. Diplomantke in diplomanti dvopredmetne smeri prvostopenjskega programa Bibliotekarstvo in informatika si pridobijo znanja in usposobljenosti iz dveh disciplin. Poleg ciljev, ki jih dosegajo na področju vsake od izbranih disciplin, so usposobljeni pridobljena znanja povezovati tudi z drugimi področji."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/bibliotekarstvo-in-informatika"
+    },
+    {
+      "id": "etnologija-in-kulturna-antropologija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Etnologija in kulturna antropologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študentje prve stopnje študijskega programa Etnologija in kulturna antropologija poleg splošnih humanističnih in družboslovnih kompetenc pridobijo specifične kompetence, ki izhajajo iz poznavanja načinov življenja in kulturne raznolikosti. Posebna odlika študija etnologije in kulturne antropologije je pridobitev usposobljenosti za terensko delo in delo z ljudmi v različnih kulturnih kontekstih v Sloveniji in po svetu. Program daje nujno potrebna znanja in veščine za nadaljevanje študija na drugi stopnji, omogoča pa tudi praktično uporabna znanja za tiste, ki se zaposlijo takoj po diplomi. Diplomantom omogoča zaposlovanje v kulturnih, upravnih, vladnih in nevladnih, gospodarskih in izobraževalnih ustanovah na področjih, ki zadevajo poznavanje procesov in sestavin vsakdanjega življenja, na primer problematiko življenja v ruralnih in urbanih okoljih, komunikacij, medijev in jezika, spolov, migracij, manjšin, človekovih pravic, zdravstvene kulture, religije, popularne kulture, založništva, trženja kulture, varovanja in ukvarjanja s kulturno dediščino ter ljudsko kulturo v spomeniškem varstvu in muzejih, dokumentacijskih centrih, knjižnicah itd."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/etnologija-in-kulturna-antropologija"
+    },
+    {
+      "id": "filozofija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Filozofija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomanti pridobijo široko in obenem poglobljeno temeljno znanje o filozofski problematiki in o njenih različnih teoretskih ter metodoloških pristopih. S podrobnim razčlenjevanjem izbranih filozofskih problemov in oblikovanjem njihovih rešitev, z branjem, analizo in interpretacijo izvirnih filozofskih besedil in skrbno presojo njihovih kompleksnih argumentov ter kritično uporabo strokovne literature razvijajo znanja, ki so potrebna za samostojno znanstveno in strokovno delo. Cilj študijskega programa je, da diplomante usposobi bodisi za znanstveno in strokovno delo na raziskovalnih in izobraževalnih ustanovah bodisi za samostojno publicistično in prevajalsko delo, povezano s filozofijo, humanistiko in družboslovjem, ter za delo v knjižnicah (ne sicer kot knjižničarka ali knjižničar), uredništvih založniških in medijskih hiš ter drugih kulturnih ustanovah, ki se ukvarjajo s spremljanjem, raziskovanjem in negovanjem svetovne in domače filozofske in humanistične dediščine."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/filozofija"
+    },
+    {
+      "id": "geografija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Geografija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomant predlaganega študijskega programa pridobi temeljna znanja, ki po mednarodnih standardih veljajo za temeljna znanja iz geografije. To mu omogoča prepoznavanje ter razumevanje naravnih in družbenih procesov oblikovanja in preoblikovanja zemeljskega površja. Pridobi osnovna znanja iz posameznih področij geografije, ki mu omogočajo razumevanje odnosa med naravo in družbo v prostoru.",
+        "Diplomant pridobi določene veščine, zlasti glede geografskih informacijskih sistemov, tematske kartografije in drugih geografskih metod, s čimer je usposobljen za izdelavo prostorskih in statističnih analiz. Z usvojenim znanjem je diplomat usposobljen za opravljanje specifičnih nalog v različnih ustanovah, povezanih s statistiko, prostorskim in regionalnim planiranjem, turizmom in varstvom okolja. Pridobljena znanja in veščine diplomantu omogočajo uspešno vključevanje v magistrski študij geografije in sorodnih prostorskih ved."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/geografija"
+    },
+    {
+      "id": "germanistika",
+      "faculty": "Filozofska fakulteta",
+      "name": "Germanistika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Program Germanistika omogoča intenzivno spoznavanje nemškega jezika ter kultur in književnosti nemško govorečih skupnosti. Pester nabor predmetov omogoča usvajanje širokega spektra medkulturnih sporazumevalnih zmožnosti v nemščini. Za pridobitev širših jezikovnih in medkulturnih kompetenc nudi program poleg nemščine še usposabljanje v drugem germanskem jeziku, v nizozemščini ali švedščini.",
+        "Diplomanti programa Germanistika bodo zmožni predvsem opravljanja del in nalog, ki zahtevajo dobro poznavanje nemščine, kulturnih posebnosti in medkulturnega komuniciranja. Zaposlovali se bodo na različnih področjih gospodarstva ter v različnih javnih in državnih službah, ki imajo stike s tujino, v različnih kulturnih ustanovah, v založbah ter v kulturnih in zunanjepolitičnih uredništvih različnih medijev. Program pa jih pripravlja tudi za nadaljnje izobraževanje na enem izmed programov 2. stopnje, ki jih ponuja Oddelek za germanistiko, kjer bodo nadgradili in poglobili pridobljeno znanje.",
+        "Koncept programa spodbuja dejavnejše in ustvarjalnejše sodelovanje študentov in razvija višjo stopnjo besedilne kritičnosti, samokritičnosti do lastnega delovanja in medkulturne presoje."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/germanistika"
+    },
+    {
+      "id": "muzikologija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Muzikologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Namen študija je bodočemu diplomantu posredovati širok nabor temeljnih znanj s področja teorije, analize in zgodovine glasbe, etnomuzikologije (popularna in ljudska glasba, antropologija glasbe) in z interdisciplinarnih muzikoloških področij (psihologija, sociologija in estetika glasbe, glasbena akustika). Študenti dvopredmetne smeri si pridobijo potrebna znanja in kompetence za delovanje na še enem strokovnem področju, s čimer se širijo tudi njihove zaposlitvene možnosti.",
+        "Diplomirani muzikolog obvlada metode muzikološkega dela, pozna in razume različne teoretske poglede na glasbo. Poglobljeno pozna in razume področje glasbene teorije, razvije sposobnost strukturiranega poslušanja in analitičnega opazovanja glasbe in njenega kritičnega vrednotenja. Pregledno pozna zgodovino, teorijo in recepcijo glasbe od najstarejših obdobij do sodobnosti in razume, da je glasbena umetnost preddoločena z vsakokratnim zgodovinskim in kulturnim (družbenim, duhovnim in psihološkim) kontekstom.",
+        "Ob široki prisotnosti in dostopnosti glasbe so zelo široke in raznolike tudi zaposlitvene možnosti diplomantov: muzikološka znanja so potrebna v vsaki ustanovi, ki se na tak ali drugačen način ukvarja z glasbo. Diplomanti se med drugim pogosto zaposlujejo v medijih, tako javnih kot komercialnih, saj je prav tu glasba najbolj prisotna. Muzikologi so zaposleni tudi v javnih in zasebnih ustanovah, ki hranijo, obdelujejo in raziskujejo raznoliko glasbeno gradivo. Mnogi diplomanti muzikologije kot svetovalci in organizatorji v javnem in zasebnem sektorju sodelujejo tudi pri sooblikovanju glasbenega življenja na lokalnem in državnem nivoju (mdr. kot svetovalci za področje glasbe, organizatorji glasbenih prireditev, strokovni sodelavci v kulturnih društvih in drugih nevladnih organizacijah, predstavniki za stike z javnostjo v glasbenih ustanovah in pri glasbenih ansamblih, sodelavci v službah za protokol ali na širokem področju turizma)."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi 50%,",
+        "- splošni uspeh v 3. in 4. letniku 30%,",
+        "- uspeh pri predmetu splošne mature: glasba 20%;",
+        "kandidati iz točke b) izbrani glede na:",
+        "- splošni uspeh pri poklicni maturi 40%,",
+        "- splošni uspeh v 3. in 4. letniku 20%,",
+        "- uspeh pri predmetu splošne mature 40%;",
+        "kandidati iz točke c) izbrani glede na:",
+        "- splošni uspeh pri zaključnem izpitu 60%,",
+        "- splošni uspeh v 3. in 4. letniku 40%."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/muzikologija"
+    },
+    {
+      "id": "pedagogika-in-andragogika",
+      "faculty": "Filozofska fakulteta",
+      "name": "Pedagogika in andragogika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilji študijskega programa je študentom in študentkam zagotoviti kakovostno družboslovno-humanistično izobrazbo s poudarkom na sistematičnem spoznavanju temeljev pedagoških in andragoških ved.",
+        "V okviru študija študenti pridobivajo temeljna znanja za razumevanje vzgojnih, izobraževalnih in socializacijskih procesov, ki se odvijajo v družini, vrtcu, šoli in v družbi. Ob tem se usposabljajo za praktično ravnanje na različnih stopnjah vzgojno izobraževalnega sistema (od predšolske vzgoje do visokošolskega študija ter izobraževanja odraslih), istočasno pa razvijajo tudi zmožnost znanstvenega raziskovanja pedagoških in andragoških tematik.",
+        "Študijski program študente pripravlja za vstop v delo v različnih dejavnostih vrtcev, šol, ustanov za izobraževanje odraslih in drugih ustanov, ki se ukvarjajo z izobraževanjem in usposabljanjem. Študenti se spoznavajo z delovanjem vzgojno-izobraževalnih ustanov in njihovim vodenjem, z vlogo pedagoškega in andragoškega svetovanja, spoznavajo področja pedagoške obravnave oseb s posebnimi potrebami, spoznavajo pomen odgovornega dela z ljudmi, skupnostjo in informacijami ter opravijo dve vrsti prakse.",
+        "Študij pedagogike in andragogike na prvi stopnji diplomantom omogoča sodelovanje pri šolskih in izvenšolskih dejavnostih vrtcev in šol, sodelovanje v različnih oblikah izobraževanja odraslih, izobraževalnih in kulturnih dejavnostih lokalnih skupnosti, v javnem, zasebnem in neprofitnem sektorju.",
+        "Obenem prvostopenjski študijski program Pedagogika in andragogika omogoča nadaljevanje študija na področju pedagogike, andragogike in sorodnih pedagoških ved, kar odpira poti do različnih zaposlitev v šolstvu (npr. v svetovalnih službah vrtcev, osnovnih in srednjih šol) ter zunaj njega (npr. v kadrovskih službah podjetij, razvojnih službah ter javnem in nevladnem sektorju)."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/pedagogika-in-andragogika"
+    },
+    {
+      "id": "prevajalstvo",
+      "faculty": "Filozofska fakulteta",
+      "name": "Prevajalstvo",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študij prevajalstva je zanimiv in aktualen preplet jezikovnih, kulturoloških, književnih in prevodoslovnih vsebin, s katerimi študentje pridobijo jezikovno, kulturno in kontrastivno besedilno znanje v slovenščini, angleščini in izbranem tretjem jeziku, osvojijo pa tudi osnovne prevajalske spretnosti.",
+        "Študij ima enopredmetno in dvopredmetno smer, ki omogočata študij sedmih različnih jezikovnih kombinacij. Diplomanti so – v skladu z izbrano smerjo – sposobni suvereno ter kompetentno pisno in ustno komunicirati v slovenščini in enem ali dveh tujih jezikih ter dobro poznajo dve oz. tri evropske kulture, zato so sposobni delovati v večjezikovnem in večkulturnem okolju ter ustrezno posredovati sporočila med jeziki in kulturami ter pri tem uporabljati jezikovne tehnologije.",
+        "Pri enopredmetni smeri slovenščina-angleščina-italijanščina imajo študentke in študenti možnost izbire dvojne diplome z Univerzo v Trstu."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/prevajalstvo"
+    },
+    {
+      "id": "primerjalna-knjizevnost-in-literarna-teorija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Primerjalna književnost in literarna teorija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program posreduje študentom znanja z najširšega področja literarne vede ter jih vpeljuje v osnove komparativistike, literarne zgodovine in literarne teorije. Posebno pozornost namenja razmerju literature skupaj z drugimi umetnostmi, pa tudi problematiki slovenske literature na ozadju evropske oziroma svetovne literature. Eno izmed osrednjih težišč študija je prav preučevanje slovenske literature v mednarodnem kontekstu.",
+        "Študij usposablja diplomante za delo z literarnimi besedili, za katero sta potrebna literarna razgledanost in široko kulturno obzorje. Konkretno jih na osnovni ravni usposablja za literarno ali kulturno novinarstvo, uredniško delo (založbe, časopisi, radio, televizija), dramaturško delo (gledališče, radio), literarno kritiko in publicistiko. V širšem smislu pa jih program usposablja tudi za delo, ki ni v neposredni zvezi z literarnim besedilom, kot je organiziranje domačih in mednarodnih kulturnih dogodkov, predstavljanje različnih ustanov v javnosti (PR) ali pisanje reklamnih sporočil."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/primerjalna-knjizevnost-in-literarna-teorija"
+    },
+    {
+      "id": "psihologija",
+      "faculty": "Filozofska fakulteta",
+      "name": "Psihologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Cilj študija psihologije je opremiti študenta z osnovnim znanjem in veščinami iz temeljnih in aplikativnih disciplin psihološke znanosti in nekaterih drugih, s psihologijo povezanih znanosti. Ta znanja so osnova za strokovno delo ter za nadaljnje izobraževanje in izpopolnjevanje v različnih oblikah podiplomskega študija in strokovnega izpopolnjevanja.",
+        "Na prvi stopnji študija psihologije se študent orientira v različnih področjih psihologije. Pridobi osnovno izobrazbo v vseh psiholoških disciplinah, spozna glavne teorije in metode v psihologiji, pridobi osnovne psihološke spretnosti in spozna osnove raziskovanja v psihologiji. Pridobljena teoretična in metodološka znanja lahko prenaša na druga področja družboslovja.",
+        "Prva stopnja študija psihologije še ne zagotavlja poklicne kvalifikacije za delo psihologa, saj ne omogoča kompetentnosti za opravljanje samostojne psihološke prakse. Po zaključeni prvi stopnji študija psihologije je diplomant usposobljen za opravljanje osnovnih nalog pri družboslovnem strokovnem delu. Pridobljeno znanje mu v okviru ustrezne supervizije omogoča uporabo psiholoških spoznanj na različnih področjih človekovega delovanja in medosebnih odnosov."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/psihologija"
+    },
+    {
+      "id": "slovenistika",
+      "faculty": "Filozofska fakulteta",
+      "name": "Slovenistika",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomanti in diplomantke študija po študijskem programu Slovenistika pridobijo znanje in razvijejo zmožnosti, ki po uveljavljenih merilih veljajo za temeljna znanja in zmožnosti v slovenističnem jezikoslovju ter literarni vedi.",
+        "Temeljna znanja s posameznih področij jezikoslovja in literarne vede jim omogočajo razumevanje, interpretiranje in ovrednotenje neumetnostnih in umetnostnih besedil ter spremljanje sočasnih strokovnih spoznanj in družbenih dogajanj, povezanih z jezikom in literaturo. Z usvojenim znanjem so se diplomanti in diplomantke sposobni do njih strokovno argumentirano opredeljevati ter svoja spoznanja in stališča smiselno in javno predstaviti.",
+        "Diplomanti in diplomantke programa so tako usposobljeni za opravljanje določenih/specifičnih nalog, ki se nanašajo na poznavanje slovenske književnosti, kulturne zgodovine, kulture sploh, jezika, besedil in njihovih značilnosti v različnih medijih, in sicer v založništvu, tiskanih in elektronskih medijih, kulturnih ustanovah, v državni upravi, v propagandni/oglaševalski in turistični dejavnosti. Študijski program usposablja tudi za sodelovanje pri protokolu in ustanovah, ki se ukvarjajo s predstavitvijo in promocijo slovenskega jezika in literature ali s kulturno animacijo."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/slovenistika"
+    },
+    {
+      "id": "sociologija-kulture",
+      "faculty": "Filozofska fakulteta",
+      "name": "Sociologija kulture",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Program upošteva smernice razvoja sodobne družbe, kjer prihaja do novih povezav in zlivanja med družbenimi področji, zaradi katerih kulture ni mogoče več razumeti brez razumevanja teh procesov; obenem torej sociologija sodobnih družb zahteva pritegnitev analitičnih postopkov, razvitih za analizo kulturnih praks v ožjem pomenu.",
+        "Študij je zasnovan tako, da na začetku gradi na širokih temeljnih socioloških in širših družboslovno-humanističnih znanjih, ki jih v višjih letnikih razvija v specialna in posebna sociološka polja. Specifike teh teoretskih vsebinskih usmeritev dajejo osnove za preučevanje procesov oblikovanja kolektivnih identitet, nacionalne pripadnosti in kulturne razpetosti družbe med tradicijo in izzivi sodobnega časa. Študentu omogočajo prepoznavanje ter razumevanje kulturnih in identitetnih politik nacionalne skupnosti ter soočenja lokalnih posebnosti v organiziranju kolektivnega kulturnega življenja s širšimi konteksti integracijskih in globalizacijskih procesov; ti vodijo do zbliževanja kultur in novega vrednotenja medkulturnih stikov.",
+        "Program s svojo usmeritvijo opravlja pomembno poslanstvo v izobraževanju kadrov, ki suvereno in samostojno prispevajo k razvoju medkulturnega dialoga države in njenih vizij globalnega civilizacijskega sodelovanja."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/sociologija-kulture"
+    },
+    {
+      "id": "umetnostna-zgodovina",
+      "faculty": "Filozofska fakulteta",
+      "name": "Umetnostna zgodovina",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Prvostopenjski univerzitetni študijski program Umetnostna zgodovina usposablja za delo v javnih in zasebnih ustanovah, ki se ukvarjajo s spremljanjem, propagiranjem, raziskovanjem in varovanjem umetnostnih in drugih, zlasti likovnih spomenikov ter za delo v turizmu, pa tudi v protokolu. V okviru študijskega programa študentke in študenti spoznajo osnove in zgodovino umetnostne zgodovine ter osvojijo razumevanje njene vloge v širšem kontekstu humanističnih in družboslovnih znanosti. Usposobijo se za kritično vrednotenje umetnostnih spomenikov in njihovo umestitev v ustrezno časovno in prostorsko območje, s posebnim poudarkom na obravnavi spomenikov v Sloveniji in sosednjih regijah.",
+        "Diplomantke in diplomanti študijskega programa bodo s svojim strokovnim delom lahko tvorno prispevali k oblikovanju slovenske kulturne identitete, s čimer bodo imeli pomembno vlogo pri oblikovanju pogojev za splošni gospodarski, družbeni in kulturni razvoj."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/umetnostna-zgodovina"
+    },
+    {
+      "id": "zgodovina",
+      "faculty": "Filozofska fakulteta",
+      "name": "Zgodovina",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Program študija zgodovine oblikuje humanistično in družboslovno široko razgledanega diplomanta. Študentu omogoči, da pridobi temeljno zgodovinsko znanje in osnovne veščine znanstvenoraziskovalnega dela. Pridobljeno znanje in veščine, ki jih diplomant obvlada, dosegajo visoke mednarodne standarde. Diplomant je sposoben analitičnega, kritičnega in poglobljenega pogleda na preteklost, sposoben pa je tudi prepoznavanja sodobnih političnih in družbenih dogajanj ter njihovega kritičnega ovrednotenja. Študenta med študijem spodbujamo k samostojnemu delu, rezultate katerega sprotno vključujemo v pedagoški in raziskovalni del študija. Pridobljene kompetence diplomantu omogočajo opravljanje določenih oblik raziskovalnega, publicističnega, arhivskega in muzejskega dela v okviru različnih del znotraj stroke in različna sorodna dela, povezana s humanistiko in družboslovjem."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/zgodovina"
+    },
+    {
+      "id": "dentalna-medicina",
+      "faculty": "Medicinska fakulteta",
+      "name": "Dentalna medicina",
+      "type": "Enoviti magistrski",
+      "duration": 6,
+      "description": [
+        "Temeljni cilji enovitega magistrskega študijskega programa Dentalna medicina je usposobiti strokovnjaka za izvajanje strokovnih del in nalog na področju dentalne medicine ter mu obenem dati ustrezno osnovo za nadaljnjo strokovno izpopolnjevanje v okviru specializacij in/ali nadaljevanje študija na doktorski stopnji. Temeljni cilji enovitega magistrskega študijskega programa Dentalna medicina določajo potrebna znanja in veščine, ki jih bo diplomant pridobil za razumevanje dentalne medicine kot znanosti (vertikalen steber DENTALNA MEDICINA KOT ZNANOST), profesionalni razvoj (vertikalen steber PROFESIONALNI RAZVOJ) in za samostojno opravljanje dela in nalog k pacientu in skupnosti usmerjene na področju dentalne medicine (vertikalen steber K PACIENTU IN SKUPNOSTI USMERJENA DENTALNA MEDICINA)."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi - 30% točk",
+        "- splošni uspeh v 3. in 4. letniku - 10% točk",
+        "- uspeh pri posameznih predmetih splošne mature: matematika, tuji jezik in en naravoslovni predmet (biologija, fizika ali kemija) - 60% točk"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/dentalna-medicina"
+    },
+    {
+      "id": "medicina",
+      "faculty": "Medicinska fakulteta",
+      "name": "Medicina",
+      "type": "Enoviti magistrski",
+      "duration": 6,
+      "description": [
+        "Temeljni cilj enovitega magistrskega študijskega programa Medicina je usposobiti strokovnjaka za izvajanje strokovnih del in nalog na področju medicine ter mu obenem dati ustrezno osnovo za nadaljnjo strokovno izpopolnjevanje v okviru specializacij in/ali nadaljevanje študija na doktorski stopnji. Temeljni cilji študijskega programa določajo potrebna znanja in veščine, ki jih bo diplomant pridobil za razumevanje medicine kot znanosti (vertikalen steber MEDICINA KOT ZNANOST), profesionalni razvoj (vertikalen steber PROFESIONALNI RAZVOJ) in za samostojno opravljanje dela in nalog k pacientu in skupnosti usmerjene na področju medicine (vertikalen steber K PACIENTU IN SKUPNOSTI USMERJENA MEDICINA)."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi - 30 % točk",
+        "- splošni uspeh v 3. in 4. letniku - 10 % točk",
+        "- uspeh pri posameznih predmetih splošne mature: matematika, tuji jezik in en naravoslovni predmet (biologija, fizika ali kemija) - 60 % točk"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/medicina"
+    },
+    {
+      "id": "geologija",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Geologija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Poleg splošnih kompetenc visoko izobraženega diplomanta si diplomanti programa Geologija pridobijo predmetnospecifična znanja in kompetence za uspešno delo in poklicno kariero v geologiji za: preučevanje celotnega sistema Zemlje in njenih različnih podsistemov, za samostojno pridobivanje in vrednotenje geoloških podatkov z geološkim kartiranjem, vzorčenjem, profiliranjem, za analiziranje in interpretiranje geološke zgradbe ozemlja in procesov, ki jo oblikujejo, za raziskovanje, vrednotenje in načrtovanje izrabe nahajališč mineralnih surovin in vodnih virov, za ocenjevanje in vrednotenje tveganja zaradi geoloških in antropogenih pojavov (plazovi, potresi, ugrezanja, poplave, onesnaženja) in za načrtovanje sanacijskih ukrepov, za pripravo tehnične geološke informacije za prostorsko in urbanistično planiranje prostora ter za projektiranje in realizacijo objektov civilne in industrijske infrastrukture (stavb, cest, železnic, predorov …)."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/geologija"
+    },
+    {
+      "id": "geotehnologija-in-okolje",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Geotehnologija in okolje",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Univerzitetni študijski program Geotehnologija in okolje je naravoslovno tehniški program, ki oblikuje strokovnjake na področjih podzemnih gradenj, okoljskega inženirstva in pridobivanja mineralnih surovin.",
+        "Študentje pridobijo kompetence za zaposlitev in/ali nadaljnje usposabljanje na celotnem področju pridobivanja mineralnih surovin, primarne predelave surovin, miniranja, podzemnih gradenj, vrtalne tehnike, opazovanj in sledenj v naravi, geotehniških raziskav, vrednotenja in izvajanja posegov v naravi, sanacij degradiranih površin, ravnanja z okoljem, trdnih odpadnih snovi, sanacij zemljišč zaradi naravnih nesreč (plazov, potresov) in zaradi nepravilnih posegov v okolje v preteklosti.",
+        "Pridobljeno znanje in sposobnosti omogočajo delo tudi na zahtevnejših strokovnih in vodstvenih delovnih mestih. Študentje tekom študija opravljajo praktično delo, ki jim omogoča seznanitev z delovnimi procesi in uporabo teoretičnih znanj v praksi."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/geotehnologija-in-okolje"
+    },
+    {
+      "id": "graficne-in-interaktivne-komunikacije-2",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Grafične in interaktivne komunikacije",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa Grafične in interaktivne komunikacije je usposobiti strokovnjaka, ki je sposoben voditi tehnološko najzahtevnejše procese v grafični in medijski dejavnosti ter na področju interaktivnih komunikacij.",
+        "Študij nudi tudi ustrezna temeljna in strokovna znanja za nadaljevanje izobraževanja na drugi stopnji. Poleg znanj s področja grafičnih, medijskih in interaktivnih komunikacij diplomant razvije sposobnost raziskovalnega mišljenja.",
+        "Diplomant programa Grafične in interaktivne komunikacije pozna lastnosti grafičnih in drugih materialov, ki se uporabljajo pri načrtovanju in izdelavi grafičnih izdelkov. Obvlada osnove likovnega jezika, tehnike likovnega izražanja ter načine branja in oblikovanja likovne zasnove. Pozna tehnološke realizacije grafično zanovanih idej. Zna reševati ekološke probleme v grafični industriji in je sposoben ustvarjanja novih idej. Uporablja tehnike medosebne komunikacije, pogajanj, timskega dela, vodenja in ustvarjalnega mišljenja."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/graficne-in-interaktivne-komunikacije-2"
+    },
+    {
+      "id": "inzenirstvo-materialov",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Inženirstvo materialov",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Inženirstvo materialov na Naravoslovnotehniški fakulteti je sodoben, dinamičen in usmerjen v prihodnost – v svet, kjer prav materiali določajo tempo tehnološkega napredka. Že tisočletja oblikujejo človekove življenjske razmere, v 21. stoletju pa so postali hrbtenica skoraj vsake inovacije. Težko si je predstavljati naš vsakdan brez raznolikosti materialov: brez betona in jekla ne bi bilo mest, cest in mostov; brez bakra ne bi poznali stabilne oskrbe z električno energijo; brez naprednih kompozitov ne bi imeli lahkih, varčnih in hitrih prevoznih sredstev.",
+        "Pravi izbor materialov je danes ključ do varnih, energijsko učinkovitih in okolju prijaznih izdelkov ter zgradb. Informacijska tehnologija, ki poganja digitalni svet, temelji na materialih, kot so kompleksni polprevodniki ali izjemno hitra optična vlakna, ki omogočajo prenos enormnih količin podatkov. Povsem nove perspektive odpirajo nanomateriali – njihove zmogljivosti šele začenjamo razumevati, potencial pa je izjemen.",
+        "Program Inženirstvo materialov študente usposobi za delo na presečišču naravoslovja, tehnologije in industrije. Študenti se poglobijo v strukturo, lastnosti in obnašanje materialov, spoznajo moderne pristope k analizi in karakterizaciji, se naučijo načrtovati materiale za specifične aplikacije ter spoznajo tehnologije s katerimi materiale oblikujemo v izdelke. Poudarek je na praktičnem, industrijsko usmerjenem znanju – od razumevanja proizvodnih procesov do optimizacije materialno-tehnoloških rešitev v realnih okoljih.",
+        "Cilj programa je oblikovati strokovnjake, ki bodo sposobni:",
+        "- sodelovati v sodobnih industrijskih procesih in jih nadgrajevati,",
+        "- razvijati in uvajati nove materiale,",
+        "- izbirati optimalne materiale za konstrukcije, naprave in tehnologije prihodnosti,",
+        "- odgovarjati na izzive trajnosti, energetske učinkovitosti in digitalizacije.",
+        "Gre za študij, ki združuje znanstveno radovednost, tehnično ustvarjalnost in vizijo prihodnosti – za vse, ki želijo soustvarjati svet naprednih materialov, brez katerih si življenja jutrišnjega dne preprosto ne moremo več predstavljati."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/inzenirstvo-materialov"
+    },
+    {
+      "id": "nacrtovanje-tekstilij-in-oblacil-2",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Načrtovanje tekstilij in oblačil",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Cilj univerzitetnega programa Načrtovanje tekstilij in oblačil je pridobivanje in razvijanje znanj s področja tekstilstva in oblačilstva, ki je osredinjeno na okolju prijazne, napredne in kakovostne materiale in procese, ki spodbuja interdisciplinarnosti, inovativnost, ustvarjalnost, in družbeno odgovornost, ter omogoča razumevanje sodobnih razvojnih trendov na področju tekstilstva v evropskem in globalnem prostoru.",
+        "Temeljni cilj univerzitetnega študijskega programa je usposobiti strokovnjaka, ki bo sposoben načrtovati in voditi tehnološko napredne procese v tekstilni in oblačilni industriji s poudarkom na okolju prijaznih tehnologijah ob upoštevanju smernic zelenega in digitalnega prehoda ter ga usposobiti za načrtovanje funkcionalnih in specialnih tekstilnih proizvodov, obenem pa zagotoviti ustrezna temeljna naravoslovna in strokovna znanja za nadaljevanje izobraževanje na drugi stopnji.",
+        "Diplomant Načrtovanja tekstilij in oblačil pozna lastnosti vlaken, pozna vpliv različnih surovin in tehnoloških dejavnikov na strukturo in lastnosti prej, tkanin in vlaknovin. Pozna temeljne tkalske in pletene strukture ter njihove lastnosti, pridobi znanja s področja tehničnih tekstilij in kompozitov. Ima sposobnost optimaliziranja tehnološkega procesa izdelave oblačil. Pozna teoretične osnove plemenitenja in zna načrtovati predpleminitilne, barvalne, tiskarske in apreturne procese ter nego tekstilij. Ima sposobnost načrtovanja, analiziranja in vodenja proizvodnega procesa z upoštevanjem sodobnih konceptov kakovosti in vseh okoljevarstvenih zahtev. Razume pomen digitalizacije v tekstilni industriji. Svoje znanje lahko študenti obogatijo s praktičnimi veščinami pridobljenimi v okviru opravljanja prakse ali pri izvajanju interdisciplinarnih projektov v okviru fakultete."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/nacrtovanje-tekstilij-in-oblacil-2"
+    },
+    {
+      "id": "oblikovanje-tekstilij-in-oblacil",
+      "faculty": "Naravoslovnotehniška fakulteta",
+      "name": "Oblikovanje tekstilij in oblačil",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Oblikovanje tekstilij in oblačil je panoga, ki sicer izhaja iz tradicionalnih rokodelskih veščin, vendar je v zadnjem stoletju razvila povsem lasten sistem izražanja, ki je povezan z umetniškimi in drugimi oblikovalskimi praksami ter teorijami.",
+        "Ustvarjalni proces tekstilnega oblikovalca se praviloma začne z zamislijo, ki jo je treba najprej z likovnimi sredstvi vizualizirati in kasneje ali pa vzporedno zanjo poiskati ustrezne tehnične postopke. Proces konceptualizacije in materializacije ideje zahteva veliko znanj in izkušenj, povezanih z umetniškimi disciplinami, družboslovjem in poznavanjem izvedbenih tehnologij.",
+        "Na podlagi izkušenj pri sedanjem visokošolskem izobraževanju iz oblikovanja tekstilij in oblačil v zadnjih 25 letih sodelovanja s tujimi visokošolskimi ustanovami smo pripravili nov koncept študija, ki temelji na štirih vzporednih vertikalah študija: temeljne – vzporedni študij oblikovanja tekstilij in oblačil, likovno izrazne vertikale, tehnološke – podpora izvedbi oblikovalskih zamisli in podporne vertikale, ki vključuje potrebna znanja in razvoj veščin računalniškega oblikovanja, znanj iz zgodovine oblikovanja tekstilij in oblačil, trženja in menedžmenta."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/oblikovanje-tekstilij-in-oblacil"
+    },
+    {
+      "id": "pravo-2",
+      "faculty": "Pravna fakulteta",
+      "name": "Pravo",
+      "type": "Enoviti magistrski",
+      "duration": 5,
+      "description": [
+        "Temeljni cilj enovitega petletnega magistrskega študijskega programa Pravo je izoblikovati pravnega strokovnjaka, ki bo po zaključenem študiju kakovostno usposobljen za opravljanje vseh pravniških poklicev, ki ne zahtevajo opravljanja pravniškega državnega izpita. Hkrati bo sposoben pridobljeno znanje učinkovito nadgraditi tudi za opravljanje pravniškega državnega izpita, ki je nujni pogoj za opravljanje nekaterih specifičnih pravniških poklicev (sodnik, državni tožilec, odvetnik itd.). Po končanem študiju bo kot magistrica oziroma magister prava poglobljeno in celovito poznal različne pravne panoge in področja prava, tudi s primerjalnopravnih oziroma mednarodnih vidikov. Ob razširjeni družboslovni in humanistični razgledanosti, ob specifičnih znanjih z različnih področij materialnega in procesnega prava ter ob poznavanju metod pravne argumentacije bo usposobljen za učinkovito individualno in skupinsko pravno delovanje ter za ustrezno interpretacijo in uporabo prava v najrazličnejših situacijah in pravnih razmerjih.",
+        "V prvem letniku študija je poudarek na splošnejših in uvodnih pravnih vsebinah, ki se povezujejo z drugimi družboslovnimi in humanističnimi področji, ob tem pa se študenti že temeljito seznanijo z ustavnim pravom, ki preučuje ustavo kot temelj in okvir pravnega sistema. V drugem letniku je poudarek na kazenskopravnem področju ter na nekaterih področjih civilnega prava. Tretji letnik je namenjen civilnemu pravu, delovnemu pravu, pravu socialne varnosti in pravu Evropske unije. Četrti letnik se osredotoča predvsem na javno upravo, upravno pravo in mednarodno pravo. V petem letniku je ob različnih predmetih poudarek še na filozofiji in metodologiji prava, ki študente dodatno opozori na pomen pravnih vrednot in jih uči pravne argumentacije. V različnih letnikih se študenti obvezno seznanijo s področji ekonomije in financ ter z različnimi področji, ki jih ponujajo številni izbirni predmeti. Fakulteta zagotavlja tudi učenje tuje pravne terminologije, študenti pa z vajami in drugimi pristopi (vabljeni predavatelji iz prakse, pravne klinike, mednarodna študentska tekmovanja, raziskovalni projekti itd.) že v času študija pridobivajo tudi praktične izkušnje. Študij se zaključi z zagovorom magistrskega strokovnega dela."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi 60 % točk",
+        "- splošni uspeh v 3. in 4. letniku 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/pravo-2"
+    },
+    {
+      "id": "pravo-4",
+      "faculty": "Pravna fakulteta",
+      "name": "Pravo",
+      "type": "Univerzitetni",
+      "duration": 4,
+      "description": [
+        "Temeljni cilj prvostopenjskega univerzitetnega študijskega programa Pravo je izoblikovati strokovnjaka, ki bo sposoben za samostojno delo v vseh pravniških poklicih, ki ne zahtevajo opravljanja pravniškega državnega izpita, študentom s ciljem opraviti pravniški državni izpit pa nuditi kakovostno podlago za nadaljevanje študija po učnem načrtu druge stopnje. Tipični poklici za profil diplomanta prvostopenjskega univerzitetnega študijskega programa Pravo so v gospodarstvu, upravi z možnostjo vodenja upravnih postopkov in kot podporni poklicni v pravosodju.",
+        "V prvem letniku so v programu najprej splošni in uvodni predmeti, ki študentom zagotavljajo širino izobrazbe in osnovo za študij posameznih pravnih področij. V prvi letnik spada tudi ustavno pravo, ki preučuje ustavo kot hierarhično najvišji pravni akt. Poudarek drugega letnika študija je na kazenskopravnem področju, ki predstavlja enega izmed nosilnih področij pravnega sistema. Prav tako se v drugem letniku obravnava zaokroženo področje delovnega prava in prava socialne varnosti. Tretji letnik se v celoti osredotoča na civilno in gospodarsko pravo. Četrti letnik pa končuje z javnim pravom; z upravnim in mednarodnim področjem."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh na maturi 60%",
+        "- splošni uspeh v 3. in 4. letniku 40%"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/pravo-4"
+    },
+    {
+      "id": "teologija-2",
+      "faculty": "Teološka fakulteta",
+      "name": "Teologija",
+      "type": "Enoviti magistrski",
+      "duration": 5,
+      "description": [
+        "Študijski program je namenjen poglabljanju teološkega znanja v povezavi s preučevanjem temeljnih besedil krščanstva, nekrščanskih verstev, filozofije in drugih humanističnih ved.",
+        "Po končanem študiju je diplomant usposobljen, da z znanstveno doslednostjo, etično-duhovno držo in široko, interdisciplinarno razgledanostjo odgovarja na verske, kulturne, družbene in etične izzive ter potrebe sodobnega časa in prostora.",
+        "Študij je namenjen tako laikom kot duhovniškim in redovniškim kandidatom. Laiki so zaposljivi v cerkvenih službah in v verski, karitativni, socialni in vzgojni dejavnosti. Mnogi delajo v javni upravi, na političnem področju in v stikih z javnostjo, v medijih in založniških hišah, kot organizatorji kulturnih in drugih dogodkov."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri maturi: 60 % točk,",
+        "- splošni uspeh v 3. in 4. letniku: 40 % točk."
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/teologija-2"
+    },
+    {
+      "id": "teoloski-in-religijski-studiji",
+      "faculty": "Teološka fakulteta",
+      "name": "Teološki in religijski študiji",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Diplomant pridobi temeljno znanje iz krščanstva, drugih religijskih verovanj, kulturne zgodovine in etike.",
+        "Usposobi se za znanstveno, teoretično-kritično in metodološko ustrezno obravnavo omenjenih tem. Pridobi kompetence v biblični, zgodovinski in teološki hermenevtiki; razločuje med različnimi religijskimi doktrinami, njihovimi nosilci in pozna njihov družbeni vpliv; pridobi sposobnost soočanja krščanskih doktrin z doktrinami drugih verstev; prepoznava filozofske tokove in ideje; zmožen je kritičnega vrednotenja vloge Cerkve v zgodovinskem, kulturnem, gospodarskem in političnem razvoju v svetu in na Slovenskem; zmožen je iskanja rešitev v cerkvenem pravu in povezovanja s civilnim pravom; prepoznava različne duhovnosti v zgodovini in v sodobnem svetu. Program se izvaja v Ljubljani in Mariboru."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/teoloski-in-religijski-studiji"
+    },
+    {
+      "id": "clovek-in-medosebni-odnosi",
+      "faculty": "Teološka fakulteta",
+      "name": "Človek in medosebni odnosi",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Študijski program Človek in medosebni odnosi združuje duhovnost in temeljna znanja duševnega zdravja. Preko študijskih vsebin usmerja študentke in študente, da raziskujejo kdo je človek, kako človek osmišlja svoje življenje, kako deluje, kaj ga motivira, kaj so njegove vrednote, kako razumeti stisko človeka, na kakšen način izkušnje zaznamujejo človeka, od kod prihajajo določeni vrednotni in idejni sistemi, kakšne so psihološke zakonitosti njegovega delovanja, kakšen pomen imajo odnosi, kako reševati napetosti in nesoglasja, kako osmisliti človekovo trpljenje in odpuščanje. V ospredje postavlja človeka znotraj njegovih mnogoterih odnosov - do bližnjih, do družbe, do samega sebe, do naravnega okolja, do Boga, do transcendentnega.",
+        "Program je sestavljen iz obveznega skupnega dela, kjer študentke in študentje pridobivajo osnovna znanja tako s področja duhovnosti, religije in teologije, kot tudi s področja psihologije, svetovanja, razvojnih teorij in odnosov. Predmeti skupnega dela predstavljajo osnovo za poglobljen študij na izbrani študijski smeri.",
+        "Smer Teološki in religijski študiji je namenjena študentkam in študentom, ki želijo biti aktivni znotraj cerkvenih skupnosti in tistim, ki bi želeli razširiti svoja obzorja s krščansko kulturo in izročili drugih religij. Smer je usmerjena v spodbujanje medkulturnega in medverskega dialoga, primerna je tudi za vse, ki iščejo odgovore na področju religij in verstev. Poleg tega smer ustrezno pripravlja vse, ki bodo želeli nadaljevati drugostopenjski študij religiologije. Študentje in študentke te smeri prejmejo po študiju naziv diplomant/diplomantka teoloških in religijskih študijev.",
+        "Smer Zakonska in družinska terapija ter svetovanje je namenjena študentom in študentkam, ki se želijo izobraževati na področju psihologije, svetovanja in psihoterapije. Študentje bodo po zaključenem študiju sposobni nuditi osnovno oskrbo družine na področju duševnega zdravja – izobraževanje, podporo in usmerjanje družine z namenom uspešnega preprečevanja psihosocialnih težav. Na smeri pridobijo osnovna znanja iz področja psihoterapije in osebno terapevtsko izkušnjo. Program je zasnovan na podlagi kompetenc psihoterapevtskega poklica, ki ga predvidevajo mednarodni standardi in kot tak namenjen tudi osnovnemu izobraževanju na področju psihoterapije in usmerja študente v nadaljnji študij družinske terapije na drugi in tretji stopnji. Študij na smeri Zakonska in družinska terapija ter svetovanje je interdisciplinaren, saj pri njem poleg strokovnjakov na področju družinske terapije UL Teološke fakultete sodelujejo tudi visokošolski učitelji UL Medicinske fakultete. Študentje in študentke te smeri prejmejo po študiju naziv družinski svetovalec/družinska svetovalka.",
+        "Na obeh smereh je mogoče študirati v Ljubljani ali v Mariboru, na smeri Teološki in religijski študiji je možen tudi izredni vpis."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/clovek-in-medosebni-odnosi"
+    },
+    {
+      "id": "veterinarstvo",
+      "faculty": "Veterinarska fakulteta",
+      "name": "Veterinarstvo",
+      "type": "Enoviti magistrski",
+      "duration": 6,
+      "description": [
+        "Cilj programa je pridobitev medicinsko-veterinarskih znanj, potrebnih za samostojno reševanje strokovnih vprašanj pri preprečevanju pojavljanja, širjenja in izkoreninjenju živalskih kužnih bolezni, preprečevanju prenosa kužnih bolezni, nevarnih za živali in ljudi, v veterinarskem javnem zdravstvu, pri pridobivanju in predelavi neoporečne, zdrave hrane, predvsem živalskega izvora, zdravljenju ekonomskih in ljubiteljskih vrst živali, skrbi za dobro počutje živali ter varstvu okolja z veterinarsko-medicinskega stališča.",
+        "Najpoglavitnejše predmetnospecifične kompetence so: primerno poznavanje zgradbe in delovanja organizma zdravih in bolnih živali, obvladovanje sodobnih laboratorijskih in kliničnih diagnostičnih metod veterinarske medicine, obvladovanje sodobnih pristopov zdravljenja pri ekonomskih in ljubiteljskih vrstah živali, poznavanje zakonov in predpisov, povezanih z veterinarstvom, poznavanje ukrepov in postopkov za preprečevanje širjenja živalskih kužnih bolezni in njihovo izvajanje, poznavanje higiene in tehnologije za proizvodnjo, izdelavo in dajanje živalskih proizvodov ali izdelkov živalskega izvora v promet, poznavanje osnov reje živali in reprodukcije."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi - 50 % točk,",
+        "- splošni uspeh v 3. in 4. letniku - 40 % točk,",
+        "- uspeh pri predmetu splošne mature (fizika, kemija ali biologija) - 10 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/veterinarstvo"
+    },
+    {
+      "id": "fizioterapija",
+      "faculty": "Zdravstvena fakulteta",
+      "name": "Fizioterapija",
+      "type": "Univerzitetni",
+      "duration": 3,
+      "description": [
+        "Temeljni cilj univerzitetnega študijskega programa Fizioterapija 1. stopnje je izobraziti in usposobiti diplomanta za samostojno izvajanje z dokazi podprte fizioterapije. Diplomant skozi študij razvije sposobnost kritičnega mišljenja o znanstvenih dognanjih na področju fizioterapevtskih postopkov. Diplomant pridobi metodološke osnove za izvajanje znanstvenoraziskovalnega dela na področju fizioterapije. Program diplomanta pripravi za prevzemanje pobude za lastno učenje. Usposobi ga za uspešno timsko in interdisciplinarno sodelovanje pri izvajanju fizioterapije ter za prenos strokovnega znanja."
+      ],
+      "criteriaGeneralMatura": [
+        "- splošni uspeh pri splošni maturi 60 % točk,",
+        "- splošni uspeh v 3. in 4. letniku 20 % točk,",
+        "- uspeh pri enem od predmetov (biologija, kemija ali fizika) v zadnjem letniku, ko se je predmet predaval 20 % točk;"
+      ],
+      "sourceUrl": "https://www.uni-lj.si/programi/fizioterapija"
+    },
+    {
+      "id": "sanitarno-inzenirstvo",
+      "faculty": "Zdravstvena fakulteta",
+      "name": "Sanitarno inženirstvo",
+      "type": "Univerzitetni",
+      "duration": 4,
+      "description": [
+        "Temeljni cilj programa je diplomantu podati znanje, veščine in miselnost za delovanje na higienskem, epidemiološkem in zdravstveno-ekološkem področju s ciljem usposobiti ga za obvladovanje higienskih procesov v delovnem in bivalnem okolju ter za varovanje človeka pred škodljivimi vplivi okolja, za varovanje okolja pred škodljivimi posegi človeka in izboljšanje kakovosti okolja za človekovo zdravje in blaginjo.",
+        "Diplomant ima znanja iz znanstvenih in teoretičnih osnov stroke, zna povezati teorijo in prakso, sposoben se je vključiti v raziskovalno delo na svojem področju, zna reševati probleme v ožjih in širših kontekstih, zna povezovati znanje in razumevanje na profesionalen način, sposoben je analize, sinteze, obvladovanja in predvidevanja rešitev ter posledic pojavov pri higiensko-tehničnih, epidemioloških, zdravstveno-ekoloških in socialno-medicinskih dejavnostih, sposoben je pridobivati, upravljati in kritično presojati informacije in profesionalno sklepati, sposoben se je samostojno odločati, pozna strokovno terminologijo, sposoben je raziskovanja v vzgoji in izobraževanju pri sanitarnem inženirstvu in zna komunicirati s strokovnjaki iste in drugih strok."
+      ],
+      "criteriaGeneralMatura": [],
+      "sourceUrl": "https://www.uni-lj.si/programi/sanitarno-inzenirstvo"
+    }
+  ],
+  "scrapeErrors": []
+}
