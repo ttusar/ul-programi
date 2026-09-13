@@ -56,9 +56,8 @@ function createProgramCard(program) {
   const meta = document.createElement("dl");
   meta.className = "program-meta";
   meta.append(
-    metadataItem("Članica UL", program.faculty),
-    metadataItem("Ime programa", program.name),
     metadataItem("Vrsta programa", program.type),
+    metadataItem("Lastnost programa", program.property),
     metadataItem("Trajanje v letih", program.duration),
   );
 
@@ -116,3 +115,70 @@ async function init() {
 }
 
 init();
+
+/* UL_PROGRAMME_TITLE_LINK_FIX
+ * Move the existing official UL URL onto the programme name and remove the
+ * redundant standalone link. The observer is only needed because programme
+ * details may be rendered after an asynchronous data load.
+ */
+(() => {
+  const officialLabel = "Odpri uradno stran programa na UL";
+
+  function moveOfficialLinkToTitle() {
+    const officialLink = Array.from(document.querySelectorAll("a")).find(
+      (link) => link.textContent.trim() === officialLabel,
+    );
+    const title = document.querySelector("h1");
+
+    if (!officialLink || !title || !title.textContent.trim()) {
+      return false;
+    }
+
+    if (!title.querySelector("a.program-title-link")) {
+      const titleLink = document.createElement("a");
+      titleLink.className = "program-title-link";
+      titleLink.href = officialLink.href;
+      titleLink.textContent = title.textContent.trim();
+      titleLink.style.color = "inherit";
+      titleLink.style.textDecoration = "none";
+
+      if (officialLink.target) titleLink.target = officialLink.target;
+      if (officialLink.rel) titleLink.rel = officialLink.rel;
+
+      titleLink.addEventListener("mouseenter", () => {
+        titleLink.style.textDecoration = "underline";
+      });
+      titleLink.addEventListener("mouseleave", () => {
+        titleLink.style.textDecoration = "none";
+      });
+
+      title.replaceChildren(titleLink);
+    }
+
+    const parent = officialLink.parentElement;
+    if (parent && parent !== title && parent.textContent.trim() === officialLabel) {
+      parent.remove();
+    } else {
+      officialLink.remove();
+    }
+    return true;
+  }
+
+  function install() {
+    if (moveOfficialLinkToTitle()) return;
+
+    const root = document.body || document.documentElement;
+    if (!root) return;
+
+    const observer = new MutationObserver(() => {
+      if (moveOfficialLinkToTitle()) observer.disconnect();
+    });
+    observer.observe(root, { childList: true, subtree: true, characterData: true });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", install, { once: true });
+  } else {
+    install();
+  }
+})();

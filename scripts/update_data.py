@@ -271,6 +271,11 @@ def parse_programme_html(html: str, url: str) -> dict[str, object] | None:
         "Vrsta študijskega programa",
         {"Lastnost študijskega programa", "Trajanje v letih"},
     )
+    programme_property = value_after_label(
+        strings,
+        "Lastnost študijskega programa",
+        {"Trajanje v letih"},
+    )
     if programme_type not in ALLOWED_TYPES:
         return None
 
@@ -319,6 +324,7 @@ def parse_programme_html(html: str, url: str) -> dict[str, object] | None:
         "faculty": faculty,
         "name": programme_title(soup, url),
         "type": programme_type,
+        "property": programme_property,
         "duration": duration,
         "description": description,
         "criteriaGeneralMatura": criteria,
