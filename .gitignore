@@ -4,3 +4,5 @@ __pycache__/
 _site/
 .DS_Store
 /data/programs.json
+README_files
+README.html
