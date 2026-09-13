@@ -69,6 +69,45 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(len(result), 5)
         self.assertNotIn("povprečna", " ".join(result))
 
+    def test_general_matura_after_heading_with_intro_on_same_line(self):
+        lines = [
+            "Merila za izbiro ob omejitvi vpisa za študijska leta od vključno 2025/2026 do vključno 2028/2029 Če bo sprejet sklep o omejitvi vpisa, bodo",
+            "kandidati iz točke a) izbrani glede na:",
+            "- splošni uspeh pri splošni maturi – 50 %;",
+            "- splošni uspeh v 3. in 4. letniku – 30 %;",
+            "- uspeh pri predmetu kemija ali biologija – 20 %.",
+            "kandidati iz točke b) izbrani glede na:",
+            "- splošni uspeh pri poklicni maturi 10 %.",
+        ]
+        self.assertEqual(
+            general_matura_criteria(lines),
+            [
+                "- splošni uspeh pri splošni maturi – 50 %;",
+                "- splošni uspeh v 3. in 4. letniku – 30 %;",
+                "- uspeh pri predmetu kemija ali biologija – 20 %.",
+            ],
+        )
+
+    def test_general_matura_decomposed_unicode_criteria(self):
+        lines = [
+            "Merila za izbiro ob omejitvi vpisa za študijska leta od vključno 2025/2026 do vključno 2028/2029",
+            "Če bo sprejet sklep o omejitvi vpisa, bodo",
+            "kandidati iz točke a) izbrani glede na:",
+            "splošni uspeh pri splošni maturi – 50 %;",
+            "splošni uspeh v 3. in 4. letniku – 30 %;",
+            "uspeh pri predmetu kemija ali biologija – 20 %.",
+            "kandidati iz točke b) izbrani glede na:",
+            "- splošni uspeh pri poklicni maturi – 30 %;",
+        ]
+        self.assertEqual(
+            general_matura_criteria(lines),
+            [
+                "- splošni uspeh pri splošni maturi – 50 %;",
+                "- splošni uspeh v 3. in 4. letniku – 30 %;",
+                "- uspeh pri predmetu kemija ali biologija – 20 %.",
+            ],
+        )
+
     def test_programme_parser(self):
         html = """
         <html><head><title>Anglistika | Univerza v Ljubljani</title></head><body><main>

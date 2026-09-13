@@ -12,6 +12,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
@@ -65,6 +66,16 @@ IRRELEVANT_CRITERIA_STARTS = (
 def clean_text(value: str) -> str:
     value = value.replace("\xa0", " ").replace("\u200b", " ")
     return re.sub(r"\s+", " ", value).strip()
+
+
+def normalized_search_text(value: str) -> str:
+    value = clean_text(value)
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(ch for ch in value if not unicodedata.combining(ch))
+    return value.lower()
+
+
+IRRELEVANT_CRITERIA_STARTS_NORMALIZED = tuple(normalized_search_text(value) for value in IRRELEVANT_CRITERIA_STARTS)
 
 
 def clean_ui_prefix(value: str) -> str:
@@ -172,12 +183,12 @@ def normalize_bullet(line: str) -> str:
 
 
 def candidate_group_letters(line: str) -> set[str]:
-    lower = clean_text(line).lower()
+    lower = normalized_search_text(line)
     if "kandidat" not in lower:
         return set()
-    if "točk" in lower or "točke" in lower or "točka" in lower:
+    if "tock" in lower or "tocke" in lower or "tocka" in lower:
         return set(re.findall(r"\b([a-z])\)", lower))
-    if "splošn" in lower and "matur" in lower:
+    if "splosn" in lower and "matur" in lower:
         return {"a"}
     return set()
 
@@ -191,12 +202,14 @@ def general_matura_criteria(section_lines: list[str]) -> list[str]:
     # Stop when a programme switches to rules for transfers/higher-year entry.
     trimmed: list[str] = []
     for line in lines:
-        lower = line.lower().lstrip("- ")
-        if any(lower.startswith(prefix) for prefix in IRRELEVANT_CRITERIA_STARTS):
+        lower = normalized_search_text(line).lstrip("- ")
+        if any(lower.startswith(prefix) for prefix in IRRELEVANT_CRITERIA_STARTS_NORMALIZED):
             break
         if lower.startswith("merila za izbiro ob omejitvi vpisa"):
-            break
-        if lower in {"več", "več..."}:
+            # Ignore the section heading itself; sometimes the heading line continues
+            # with the introductory sentence and the real selection criteria follow.
+            continue
+        if lower in {"vec", "vec..."}:
             break
         trimmed.append(line)
     lines = trimmed
@@ -233,14 +246,14 @@ def cleanup_criteria(lines: list[str]) -> list[str]:
     result: list[str] = []
     for line in lines:
         text = normalize_bullet(line)
-        lower = text.lower().lstrip("- ")
+        lower = normalized_search_text(text).lstrip("- ")
         if not text:
             continue
-        if lower.startswith("če bo sprejet sklep o omejitvi vpisa"):
+        if lower.startswith("ce bo sprejet sklep o omejitvi vpisa"):
             continue
         if candidate_group_letters(text):
             continue
-        if lower.startswith("kandidati iz točke b") or lower.startswith("kandidati iz točk b"):
+        if lower.startswith("kandidati iz tocke b") or lower.startswith("kandidati iz tock b"):
             break
         if not text.startswith("- ") and "%" in text and not text.endswith(":"):
             text = f"- {text}"
@@ -395,8 +408,7 @@ def update_data(output: Path, delay: float, timeout: float, min_programs: int) -
                 programmes.append(programme)
                 criteria_count = len(programme["criteriaGeneralMatura"])
                 if criteria_count == 0:
-                    pass
-                    # print(f"  warning: no general-matura criteria parsed for {programme['name']}", file=sys.stderr)
+                    print(f"  warning: no general-matura criteria parsed for {programme['name']}", file=sys.stderr)
         except Exception as exc:  # Keep other pages usable and report failures.
             errors.append({"url": url, "error": str(exc)})
             print(f"  error: {url}: {exc}", file=sys.stderr)
