@@ -51,17 +51,23 @@ function interestControl(program, currentInterest) {
 
   for (const value of ["yes", "maybe", "no"]) {
     const label = document.createElement("label");
+    label.className = `interest-option interest-${value}`;
     const input = document.createElement("input");
     input.type = "radio";
     input.name = `interest-${program.id}`;
     input.value = value;
     input.checked = currentInterest === value;
+
     input.addEventListener("change", () => {
       setInterest(program.id, value);
       updateSummary();
       if (state.sortKey === "interest") renderTable();
     });
-    label.append(input, document.createTextNode(INTEREST_LABELS[value]));
+
+    const text = document.createElement("span");
+    text.className = "interest-label-text";
+    text.textContent = INTEREST_LABELS[value];
+    label.append(input, text);
     fieldset.append(label);
   }
   return fieldset;

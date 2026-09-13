@@ -199,6 +199,9 @@ h3 { line-height: 1.25; }
 
 .interest-options label {
   position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
 }
 
@@ -208,22 +211,44 @@ h3 { line-height: 1.25; }
   pointer-events: none;
 }
 
-.interest-options label {
+.interest-label-text {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   padding: 5px 8px;
+  border: 1px solid transparent;
   border-radius: 6px;
+  background: transparent;
   color: var(--muted);
   font-size: 0.84rem;
   font-weight: 700;
+  transition: background-color 0.18s ease, color 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
-.interest-options label:has(input:checked) {
-  background: var(--surface);
-  color: var(--accent);
-  box-shadow: 0 1px 4px rgba(23, 32, 28, 0.10);
+.interest-option input:checked + .interest-label-text {
+  box-shadow: inset 0 0 0 1px rgba(23, 32, 28, 0.08);
 }
 
-.interest-options label:has(input:focus-visible) {
-  outline: 3px solid rgba(139, 30, 45, 0.28);
+.interest-option.interest-yes input:checked + .interest-label-text {
+  border-color: rgba(18, 122, 75, 0.2);
+  background: rgba(22, 163, 74, 0.12);
+  color: #0f6b45;
+}
+
+.interest-option.interest-maybe input:checked + .interest-label-text {
+  border-color: rgba(180, 112, 16, 0.22);
+  background: rgba(245, 158, 11, 0.13);
+  color: #9c5c00;
+}
+
+.interest-option.interest-no input:checked + .interest-label-text {
+  border-color: rgba(157, 38, 52, 0.22);
+  background: rgba(220, 38, 38, 0.11);
+  color: #8a2030;
+}
+
+.interest-options label:focus-within {
+  outline: none;
 }
 
 .selection-panel {
